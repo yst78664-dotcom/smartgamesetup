@@ -33,15 +33,17 @@ Before we dive into our picks, let's quickly cover why a smart light bar is one 
 
 | Light Bar | Best For | Screen Sync | App Control | Voice Control | Colors | Price Range |
 |-----------|----------|-------------|-------------|---------------|--------|-------------|
-| **Govee DreamView G1 Pro** | Best overall | ✅ Camera-based | ✅ Govee Home | Alexa, Google | RGBIC (16M+) | [Check Price on Amazon](AFFILIATE_LINK_GOVEE_G1_PRO) |
-| **Philips Hue Play Gradient** | Premium ecosystem | ✅ Hue Sync Box | ✅ Hue App | Alexa, Google, Siri | 16M+ colors | [Check Price on Amazon](AFFILIATE_LINK_HUE_PLAY_GRADIENT) |
-| **BenQ ScreenBar Halo** | Eye comfort + task light | ❌ | ✅ Wireless dial | ❌ | Warm/Cool white | [Check Price on Amazon](AFFILIATE_LINK_BENQ_HALO) |
-| **Govee Light Bar H6054** | Budget-friendly RGB | ✅ Camera-based | ✅ Govee Home | Alexa, Google | RGBIC (16M+) | [Check Price on Amazon](AFFILIATE_LINK_GOVEE_H6054) |
-| **Xiaomi Mi Light Bar** | Minimalist budget | ❌ | ✅ Mi Home | Alexa, Google | Warm/Cool white | [Check Price on Amazon](AFFILIATE_LINK_XIAOMI_LIGHT_BAR) |
+| **Govee DreamView G1 Pro** | Best overall | ✅ Camera-based | ✅ Govee Home | Alexa, Google | RGBIC (16M+) | [Check Price on Amazon](https://www.amazon.com/dp/B09R1VGWSM?tag=songtao-20) |
+| **Philips Hue Play Gradient** | Premium ecosystem | ✅ Hue Sync Box | ✅ Hue App | Alexa, Google, Siri | 16M+ colors | [Check Price on Amazon](https://www.amazon.com/dp/B0B9SY152K?tag=songtao-20) |
+| **BenQ ScreenBar Halo** | Eye comfort + task light | ❌ | ✅ Wireless dial | ❌ | Warm/Cool white | [Check Price on Amazon](https://www.amazon.com/dp/B08WT889V3?tag=songtao-20) |
+| **Govee Light Bar H6054** | Budget-friendly RGB | ✅ Camera-based | ✅ Govee Home | Alexa, Google | RGBIC (16M+) | [Check Price on Amazon](https://www.amazon.com/dp/B08KXPRJ5D?tag=songtao-20) |
+| **Xiaomi Mi Light Bar** | Minimalist budget | ❌ | ✅ Mi Home | Alexa, Google | Warm/Cool white | [Check Price on Amazon](https://www.amazon.com/dp/B08W2C5W59?tag=songtao-20) |
 
 ---
 
 ## 1. Govee DreamView G1 Pro — Best Overall Smart Light Bar for Gaming
+
+![Govee DreamView G1 Pro](https://m.media-amazon.com/images/I/71+iAwPJBWL._AC_SL1500_.jpg)
 
 **⭐ Editor's Choice**
 
@@ -76,11 +78,13 @@ The result? Your wall lights up with colors that match whatever's on screen — 
 
 Gamers who want immersive screen-synced ambient lighting at a reasonable price. If you game on PC *and* console and want one solution that works with everything without installing drivers, the G1 Pro is unbeatable.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_GOVEE_G1_PRO)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B09R1VGWSM?tag=songtao-20)**
 
 ---
 
 ## 2. Philips Hue Play Gradient Light Tube — Premium Pick
+
+![Philips Hue Play Gradient](https://m.media-amazon.com/images/I/71SeHBAcQkL._AC_SL1500_.jpg)
 
 The Philips Hue Play Gradient is the Rolls-Royce of gaming light bars. It's part of the massive Hue ecosystem, which means rock-solid reliability, beautiful color accuracy, and integration with practically every smart home platform on the planet.
 
@@ -113,11 +117,13 @@ The gradient technology means each tube displays multiple colors at once, creati
 
 Gamers who are already invested in Philips Hue or who want the absolute best color quality and smart home integration regardless of price. If you value build quality, ecosystem maturity, and HomeKit support, Hue is the way.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_HUE_PLAY_GRADIENT)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B0B9SY152K?tag=songtao-20)**
 
 ---
 
 ## 3. BenQ ScreenBar Halo — Best for Eye Comfort
+
+![BenQ ScreenBar Halo](https://m.media-amazon.com/images/I/51TVzOs05eL._AC_SL1500_.jpg)
 
 The BenQ ScreenBar Halo takes a completely different approach. Instead of RGB gaming aesthetics, it's designed purely for eye comfort and productivity — with a clever backlight that reduces eye strain during long gaming sessions.
 
@@ -151,11 +157,13 @@ It mounts on top of your monitor (not behind it) and projects light *downward* o
 
 Gamers who prioritize eye health and clean aesthetics over RGB flash. If you game for 6+ hours and your eyes are suffering, the ScreenBar Halo is a legitimate quality-of-life upgrade. It also doubles as an excellent work light for hybrid gaming/productivity setups.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_BENQ_HALO)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B08WT889V3?tag=songtao-20)**
 
 ---
 
 ## 4. Govee Light Bar H6054 — Best Budget Smart Light Bar
+
+![Govee Light Bar H6054](https://m.media-amazon.com/images/I/71d22C+uofL._AC_SL1500_.jpg)
 
 If you want the smart light bar experience at roughly half the price of the G1 Pro, the Govee H6054 is your answer. These two compact light bars sit on your desk (or mount behind your monitor) and deliver the same app control, screen sync, and music reactive modes as their pricier sibling.
 
@@ -189,7 +197,7 @@ The camera accessory for screen sync is included, and the Govee Home app unlocks
 
 Budget-conscious gamers who want screen-synced ambient lighting without spending over $100. If you have a 24-27" monitor and a smaller desk area, the H6054 punches well above its price class.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_GOVEE_H6054)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B08KXPRJ5D?tag=songtao-20)**
 
 ---
 
@@ -227,7 +235,7 @@ There's no RGB, no screen sync, no flashy gaming features. What you get is a wel
 
 Gamers on a tight budget who want the desk lighting and eye comfort benefits of a monitor light bar without paying BenQ prices. If you don't need RGB or smart features, the Xiaomi is arguably the best value on this list.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_XIAOMI_LIGHT_BAR)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B08W2C5W59?tag=songtao-20)**
 
 ---
 
@@ -308,11 +316,11 @@ Camera-based systems like Govee work with any screen source — PC, PS5, Xbox, N
 
 ## Final Verdict
 
-For most gamers, the **[Govee DreamView G1 Pro](AFFILIATE_LINK_GOVEE_G1_PRO)** is the best smart light bar you can buy in 2026. It delivers impressive screen-synced immersion, solid app control, and voice assistant support at a price that doesn't break the bank.
+For most gamers, the **[Govee DreamView G1 Pro](https://www.amazon.com/dp/B09R1VGWSM?tag=songtao-20)** is the best smart light bar you can buy in 2026. It delivers impressive screen-synced immersion, solid app control, and voice assistant support at a price that doesn't break the bank.
 
-If you want the absolute best and money is no object, the **[Philips Hue Play Gradient](AFFILIATE_LINK_HUE_PLAY_GRADIENT)** is unmatched in color quality and ecosystem depth.
+If you want the absolute best and money is no object, the **[Philips Hue Play Gradient](https://www.amazon.com/dp/B0B9SY152K?tag=songtao-20)** is unmatched in color quality and ecosystem depth.
 
-And if eye comfort is your priority over RGB flash, the **[BenQ ScreenBar Halo](AFFILIATE_LINK_BENQ_HALO)** is the gold standard — or grab the **[Xiaomi Mi Light Bar](AFFILIATE_LINK_XIAOMI_LIGHT_BAR)** if you want 80% of the experience at a third of the price.
+And if eye comfort is your priority over RGB flash, the **[BenQ ScreenBar Halo](https://www.amazon.com/dp/B08WT889V3?tag=songtao-20)** is the gold standard — or grab the **[Xiaomi Mi Light Bar](https://www.amazon.com/dp/B08W2C5W59?tag=songtao-20)** if you want 80% of the experience at a third of the price.
 
 No matter which you choose, adding a light bar behind your gaming monitor is one of the best upgrades you can make. Your eyes (and your Instagram) will thank you.
 

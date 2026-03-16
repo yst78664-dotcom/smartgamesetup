@@ -24,11 +24,11 @@ We mounted five of the most popular dual monitor arms on the same desk with the 
 
 | Monitor Arm | Best For | Max Size | Max Weight (per arm) | Mount Type | Gas Spring | Cable Mgmt | Price |
 |-------------|----------|----------|---------------------|------------|------------|------------|-------|
-| **Ergotron LX Dual** | Best overall | 27" | 25 lbs | Clamp/Grommet | ✅ | ✅ Built-in | [Check Price](AFFILIATE_LINK_ERGOTRON_LX_DUAL) |
-| **AmazonBasics Dual** | Best budget | 27" | 25 lbs | Clamp | ✅ | ✅ Built-in | [Check Price](AFFILIATE_LINK_AMAZONBASICS_DUAL) |
-| **VIVO Dual Premium** | Best value | 32" | 22 lbs | Clamp/Grommet | ✅ | ✅ Clips | [Check Price](AFFILIATE_LINK_VIVO_DUAL) |
-| **Humanscale M8.1** | Best premium | 32" | 28 lbs | Clamp/Bolt | ✅ (weight-based) | ✅ Integrated | [Check Price](AFFILIATE_LINK_HUMANSCALE_M81) |
-| **HUANUO Dual** | Best ultrawide support | 35" | 26.4 lbs | Clamp/Grommet | ✅ | ✅ Clips | [Check Price](AFFILIATE_LINK_HUANUO_DUAL) |
+| **Ergotron LX Dual** | Best overall | 27" | 25 lbs | Clamp/Grommet | ✅ | ✅ Built-in | [Check Price](https://www.amazon.com/dp/B07Q1NJ15Q?tag=songtao-20) |
+| **AmazonBasics Dual** | Best budget | 27" | 25 lbs | Clamp | ✅ | ✅ Built-in | [Check Price](https://www.amazon.com/dp/B00MIBN71I?tag=songtao-20) |
+| **VIVO Dual Premium** | Best value | 32" | 22 lbs | Clamp/Grommet | ✅ | ✅ Clips | [Check Price](https://www.amazon.com/dp/B009S750LA?tag=songtao-20) |
+| **Humanscale M8.1** | Best premium | 32" | 28 lbs | Clamp/Bolt | ✅ (weight-based) | ✅ Integrated | [Check Price](https://www.amazon.com/dp/B07KKDVYJT?tag=songtao-20) |
+| **HUANUO Dual** | Best ultrawide support | 35" | 26.4 lbs | Clamp/Grommet | ✅ | ✅ Clips | [Check Price](https://www.amazon.com/dp/B07T5SY43L?tag=songtao-20) |
 
 ---
 
@@ -54,6 +54,8 @@ A floating dual-monitor setup on a clean desk looks dramatically better than two
 ---
 
 ## 1. Ergotron LX Dual Side-by-Side — Best Overall
+
+![Ergotron LX Dual Monitor Arm](https://m.media-amazon.com/images/I/41UmDcNnIeL._AC_SL1000_.jpg)
 
 **⭐ Editor's Choice**
 
@@ -92,11 +94,13 @@ The patented Constant Force technology means the arm counterbalances your monito
 
 Gamers who want the absolute best monitor arm and are willing to pay for it. If you've invested in premium monitors, the Ergotron LX is the mount they deserve. The 10-year warranty means you'll likely keep this through multiple monitor upgrades.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_ERGOTRON_LX_DUAL)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B07Q1NJ15Q?tag=songtao-20)**
 
 ---
 
 ## 2. AmazonBasics Dual Monitor Arm — Best Budget Option
+
+![Amazon Basics Dual Monitor Arm](https://m.media-amazon.com/images/I/71-vVgPmt6L._AC_SL1500_.jpg)
 
 Here's an open secret in the monitor arm world: the AmazonBasics dual monitor arm is manufactured by Ergotron (or a very close OEM equivalent). It uses a similar gas spring mechanism, similar build quality, and similar range of motion — at roughly 40% less cost.
 
@@ -132,11 +136,13 @@ The tradeoffs are minor: slightly less refined cable management, a shorter warra
 
 Budget-conscious gamers who want Ergotron-level performance without the premium price. If you're willing to accept a shorter warranty and minor cosmetic differences, this is the smart money play.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_AMAZONBASICS_DUAL)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B00MIBN71I?tag=songtao-20)**
 
 ---
 
 ## 3. VIVO Dual Monitor Arm Premium — Best Value
+
+![VIVO Dual Monitor Arm](https://m.media-amazon.com/images/I/71uG3ZFK0dL._AC_SL1500_.jpg)
 
 The VIVO dual arm sits right in the sweet spot between the AmazonBasics budget option and premium picks. It supports monitors up to 32" (larger than Ergotron's 27" limit), includes both clamp and grommet mounts, and offers gas spring arms with smooth articulation.
 
@@ -173,11 +179,13 @@ Build quality is a step above AmazonBasics with a more refined matte black finis
 
 Gamers with 27-32" monitors who want solid gas spring performance and dual mount options without premium pricing. The 32" support makes it ideal for those planning to upgrade from 27" to 32" monitors in the future.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_VIVO_DUAL)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B009S750LA?tag=songtao-20)**
 
 ---
 
 ## 4. Humanscale M8.1 Dual — Best Premium
+
+![Humanscale M8.1 Monitor Arm](https://m.media-amazon.com/images/I/71jBpTowdvL._AC_SL1500_.jpg)
 
 The Humanscale M8.1 is what happens when an ergonomic furniture company with decades of experience designs a monitor arm. It's the most refined, most beautiful, and most expensive option on this list — and every dollar shows.
 
@@ -214,7 +222,7 @@ Instead of gas springs, Humanscale uses a weight-compensating mechanical system 
 
 Gamers with premium desks and premium monitors who want a monitor arm that matches. If your setup includes a Secretlab desk and high-end displays, the Humanscale M8.1 is the appropriate mount.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_HUMANSCALE_M81)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B07KKDVYJT?tag=songtao-20)**
 
 ---
 
@@ -255,7 +263,7 @@ The extra-long arm segments provide the reach needed to position wide monitors w
 
 Gamers running dual 32"+ monitors or a dual setup with one ultrawide. If your monitors exceed the weight or size limits of standard dual arms, the HUANUO handles what others can't.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_HUANUO_DUAL)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B07T5SY43L?tag=songtao-20)**
 
 ---
 
@@ -316,11 +324,11 @@ Yes, with caution. IKEA desks with hollow-core construction (like the LINNMON) c
 
 ## Final Verdict
 
-For most dual-monitor gaming setups, the **[Ergotron LX Dual](AFFILIATE_LINK_ERGOTRON_LX_DUAL)** is the best monitor arm you can buy. Its Constant Force technology, 10-year warranty, and butter-smooth movement justify the premium price for an accessory you'll use every single day.
+For most dual-monitor gaming setups, the **[Ergotron LX Dual](https://www.amazon.com/dp/B07Q1NJ15Q?tag=songtao-20)** is the best monitor arm you can buy. Its Constant Force technology, 10-year warranty, and butter-smooth movement justify the premium price for an accessory you'll use every single day.
 
-On a budget? The **[AmazonBasics Dual Arm](AFFILIATE_LINK_AMAZONBASICS_DUAL)** delivers 90% of the Ergotron experience at 60% of the price — it's the best value in the category.
+On a budget? The **[AmazonBasics Dual Arm](https://www.amazon.com/dp/B00MIBN71I?tag=songtao-20)** delivers 90% of the Ergotron experience at 60% of the price — it's the best value in the category.
 
-Running 32"+ monitors? The **[HUANUO Dual Arm](AFFILIATE_LINK_HUANUO_DUAL)** handles the extra size and weight that standard arms can't.
+Running 32"+ monitors? The **[HUANUO Dual Arm](https://www.amazon.com/dp/B07T5SY43L?tag=songtao-20)** handles the extra size and weight that standard arms can't.
 
 A dual monitor arm is a one-time purchase that improves every minute you spend at your desk. Your neck, your desk space, and your setup photos will all thank you.
 

@@ -25,11 +25,11 @@ We tested **5 of the best smart plugs for gaming PC power management** and ranke
 
 | Smart Plug | Best For | Max Load | Energy Monitor | Voice Control | Matter | Price |
 |------------|----------|----------|----------------|---------------|--------|-------|
-| **TP-Link Kasa KP125M** | Best overall | 15A / 1800W | ✅ Real-time + historical | Alexa, Google, Siri | ✅ | [Check Price](AFFILIATE_LINK_KASA_KP125M) |
-| **Eve Energy** | Best for Apple/HomeKit | 15A / 1800W | ✅ Real-time + historical | Siri, Alexa, Google | ✅ (Thread) | [Check Price](AFFILIATE_LINK_EVE_ENERGY) |
-| **Tapo P125M** | Best budget | 15A / 1800W | ✅ Real-time + historical | Alexa, Google, Siri | ✅ | [Check Price](AFFILIATE_LINK_TAPO_P125M) |
-| **Emporia Smart Plug** | Best energy tracking | 15A / 1800W | ✅ Real-time + detailed analytics | Alexa, Google | ❌ | [Check Price](AFFILIATE_LINK_EMPORIA_PLUG) |
-| **Amazon Smart Plug** | Simplest Alexa setup | 15A / 1800W | ❌ | Alexa only | ❌ | [Check Price](AFFILIATE_LINK_AMAZON_PLUG) |
+| **TP-Link Kasa KP125M** | Best overall | 15A / 1800W | ✅ Real-time + historical | Alexa, Google, Siri | ✅ | [Check Price](https://www.amazon.com/dp/B0BYGRLRS1?tag=songtao-20) |
+| **Eve Energy** | Best for Apple/HomeKit | 15A / 1800W | ✅ Real-time + historical | Siri, Alexa, Google | ✅ (Thread) | [Check Price](https://www.amazon.com/dp/B0BZBGD87V?tag=songtao-20) |
+| **Tapo P125M** | Best budget | 15A / 1800W | ✅ Real-time + historical | Alexa, Google, Siri | ✅ | [Check Price](https://www.amazon.com/dp/B0BNWGZ545?tag=songtao-20) |
+| **Emporia Smart Plug** | Best energy tracking | 15A / 1800W | ✅ Real-time + detailed analytics | Alexa, Google | ❌ | [Check Price](https://www.amazon.com/dp/B0CLXJ9KJ6?tag=songtao-20) |
+| **Amazon Smart Plug** | Simplest Alexa setup | 15A / 1800W | ❌ | Alexa only | ❌ | [Check Price](https://www.amazon.com/dp/B089DR29T6?tag=songtao-20) |
 
 ---
 
@@ -52,6 +52,8 @@ Some smart plugs can alert you to power anomalies or automatically cut power dur
 ---
 
 ## 1. TP-Link Kasa KP125M — Best Overall Smart Plug for Gaming
+
+![TP-Link Kasa KP125M Smart Plug](https://m.media-amazon.com/images/I/61pj48oBf9L._SL1500_.jpg)
 
 **⭐ Editor's Choice**
 
@@ -92,11 +94,13 @@ Matter support means the KP125M works natively with Apple Home, Google Home, Ama
 
 Any gamer who wants reliable energy monitoring, broad smart home compatibility, and future-proof Matter support. If you can only buy one smart plug for your gaming setup, this is it.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_KASA_KP125M)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B0BYGRLRS1?tag=songtao-20)**
 
 ---
 
 ## 2. Eve Energy — Best for Apple HomeKit Users
+
+![Eve Energy Smart Plug](https://m.media-amazon.com/images/I/717-91Hs5+L._AC_SL1500_.jpg)
 
 The Eve Energy is the premium choice for Apple ecosystem gamers. It connects via **Thread** (not Wi-Fi), which means faster response times, lower power consumption, and mesh networking that strengthens your smart home fabric.
 
@@ -133,11 +137,13 @@ For HomeKit users, the Eve app provides the most detailed energy tracking availa
 
 Apple ecosystem gamers who want the most responsive, private, and well-integrated smart plug experience. If you have a HomePod mini or Apple TV 4K and use HomeKit for your smart home, the Eve Energy is the best plug you can buy.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_EVE_ENERGY)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B0BZBGD87V?tag=songtao-20)**
 
 ---
 
 ## 3. Tapo P125M — Best Budget Smart Plug with Energy Monitoring
+
+![Tapo P125M Smart Plug](https://m.media-amazon.com/images/I/61Dcrc+4d4L._AC_SL1500_.jpg)
 
 The Tapo P125M is essentially the Kasa KP125M's budget sibling — same parent company (TP-Link), similar features, slightly stripped-down app experience, and a meaningfully lower price. It's the best "energy monitoring smart plug under $15" you can buy.
 
@@ -172,11 +178,13 @@ Energy monitoring accuracy was within 2% of our reference meter — slightly les
 
 Budget-conscious gamers who want energy monitoring and Matter support without spending $20+ per plug. If you want to put smart plugs on multiple devices (PC, monitor, speakers), the Tapo P125M makes it affordable.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_TAPO_P125M)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B0BNWGZ545?tag=songtao-20)**
 
 ---
 
 ## 4. Emporia Smart Plug — Best for Detailed Energy Analytics
+
+![Emporia Smart Plug](https://m.media-amazon.com/images/I/51RAf9U2d4L._SL1000_.jpg)
 
 The Emporia smart plug is designed by a company that's obsessed with energy monitoring — they also make whole-home energy monitors. The result is a smart plug with the most detailed power analytics you'll find, including second-by-second wattage graphs, power factor readings, and utility rate-adjusted cost tracking.
 
@@ -211,7 +219,7 @@ For gamers who are genuinely curious about their setup's power profile — how m
 
 Data-oriented gamers who want to deeply understand their power consumption. If you're the type who monitors GPU temps and fan curves, you'll love seeing real-time wattage graphs of your gaming sessions.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_EMPORIA_PLUG)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B0CLXJ9KJ6?tag=songtao-20)**
 
 ---
 
@@ -249,7 +257,7 @@ No energy monitoring. No Matter. No HomeKit. Just reliable on/off control throug
 
 Alexa users who want dead-simple voice control over their gaming setup power. "Alexa, game time" on, "Alexa, goodnight" off — nothing more, nothing less.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_AMAZON_PLUG)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B089DR29T6?tag=songtao-20)**
 
 ---
 
@@ -305,7 +313,7 @@ Yes, but with a caveat. Wake-on-LAN requires your PC's network card to receive t
 
 ### What's the difference between a smart plug and a smart power strip?
 
-A smart plug controls a single outlet (on/off for everything plugged into it). A smart power strip has multiple individually-controllable outlets, so you can turn your monitor off while keeping your PC on. Smart power strips cost more but offer finer control — see our guide on [best smart power strips for gaming desk setup](AFFILIATE_LINK_SMART_POWER_STRIP_ARTICLE).
+A smart plug controls a single outlet (on/off for everything plugged into it). A smart power strip has multiple individually-controllable outlets, so you can turn your monitor off while keeping your PC on. Smart power strips cost more but offer finer control — see our guide on [best smart power strips for gaming desk setup](/best-smart-power-strip-for-gaming-desk).
 
 ### Can I control a smart plug when I'm away from home?
 
@@ -315,13 +323,13 @@ Yes. All Wi-Fi smart plugs on this list (except Eve Energy in local-only mode) s
 
 ## Final Verdict
 
-The **[TP-Link Kasa KP125M](AFFILIATE_LINK_KASA_KP125M)** is our top pick for most gamers. It combines accurate energy monitoring, Matter certification, and a polished app at a reasonable price. It works with every major smart home platform and will continue to work as the industry evolves.
+The **[TP-Link Kasa KP125M](https://www.amazon.com/dp/B0BYGRLRS1?tag=songtao-20)** is our top pick for most gamers. It combines accurate energy monitoring, Matter certification, and a polished app at a reasonable price. It works with every major smart home platform and will continue to work as the industry evolves.
 
-**Apple users** should grab the **[Eve Energy](AFFILIATE_LINK_EVE_ENERGY)** for the best HomeKit experience and Thread's low-latency responsiveness.
+**Apple users** should grab the **[Eve Energy](https://www.amazon.com/dp/B0BZBGD87V?tag=songtao-20)** for the best HomeKit experience and Thread's low-latency responsiveness.
 
-**Budget shoppers** can't go wrong with the **[Tapo P125M](AFFILIATE_LINK_TAPO_P125M)** — it delivers 90% of the Kasa experience at 60% of the price.
+**Budget shoppers** can't go wrong with the **[Tapo P125M](https://www.amazon.com/dp/B0BNWGZ545?tag=songtao-20)** — it delivers 90% of the Kasa experience at 60% of the price.
 
-And if you just want to say "Alexa, game time" and have your setup turn on, the **[Amazon Smart Plug](AFFILIATE_LINK_AMAZON_PLUG)** does that for the cost of a fast food meal.
+And if you just want to say "Alexa, game time" and have your setup turn on, the **[Amazon Smart Plug](https://www.amazon.com/dp/B089DR29T6?tag=songtao-20)** does that for the cost of a fast food meal.
 
 Stop paying to power a sleeping PC. A $15 smart plug is the easiest money-saving upgrade in gaming.
 

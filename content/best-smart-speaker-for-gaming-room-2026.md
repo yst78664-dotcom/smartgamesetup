@@ -24,11 +24,11 @@ We tested **5 of the best smart speakers for gaming rooms** in 2026, evaluating 
 
 | Speaker | Best For | Sound Quality | Voice Assistant | Display | Smart Home Hub | Price |
 |---------|----------|---------------|-----------------|---------|----------------|-------|
-| **Amazon Echo (5th Gen)** | Best overall | Very good | Alexa | ❌ | ✅ Zigbee/Matter/Thread | [Check Price](AFFILIATE_LINK_ECHO_5TH) |
-| **Apple HomePod mini** | Best for Apple users | Good | Siri | ❌ | ✅ Thread border router | [Check Price](AFFILIATE_LINK_HOMEPOD_MINI) |
-| **Amazon Echo Pop** | Best budget | Decent | Alexa | ❌ | ❌ | [Check Price](AFFILIATE_LINK_ECHO_POP) |
-| **Google Nest Audio** | Best sound quality | Excellent | Google Assistant | ❌ | ✅ Matter/Thread | [Check Price](AFFILIATE_LINK_NEST_AUDIO) |
-| **Amazon Echo Show 5 (3rd Gen)** | Best with display | Good | Alexa | ✅ 5.5" | ✅ Zigbee/Matter | [Check Price](AFFILIATE_LINK_ECHO_SHOW_5) |
+| **Amazon Echo (5th Gen)** | Best overall | Very good | Alexa | ❌ | ✅ Zigbee/Matter/Thread | [Check Price](https://www.amazon.com/dp/B09B8V1LZ3?tag=songtao-20) |
+| **Apple HomePod mini** | Best for Apple users | Good | Siri | ❌ | ✅ Thread border router | [Check Price](https://www.amazon.com/s?k=Apple+HomePod+mini&tag=songtao-20) |
+| **Amazon Echo Pop** | Best budget | Decent | Alexa | ❌ | ❌ | [Check Price](https://www.amazon.com/dp/B09WNK39JN?tag=songtao-20) |
+| **Google Nest Audio** | Best sound quality | Excellent | Google Assistant | ❌ | ✅ Matter/Thread | [Check Price](https://www.amazon.com/s?k=Google+Nest+Audio&tag=songtao-20) |
+| **Amazon Echo Show 5 (3rd Gen)** | Best with display | Good | Alexa | ✅ 5.5" | ✅ Zigbee/Matter | [Check Price](https://www.amazon.com/dp/B09B2SBHQK?tag=songtao-20) |
 
 ---
 
@@ -54,6 +54,8 @@ Game release dates, weather checks, quick math, sports scores — voice queries 
 ---
 
 ## 1. Amazon Echo (5th Gen) — Best Overall for Gaming Rooms
+
+![Amazon Echo Smart Speaker](https://m.media-amazon.com/images/I/71jJawyjDFL._AC_SL1500_.jpg)
 
 **⭐ Editor's Choice**
 
@@ -96,11 +98,13 @@ The built-in smart home hub is the killer feature for gamers. It connects direct
 
 Any gamer who uses Alexa and wants the most capable smart speaker for voice-controlling their gaming room. The built-in hub means fewer devices, less complexity, and faster automation response.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_ECHO_5TH)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B09B8V1LZ3?tag=songtao-20)**
 
 ---
 
 ## 2. Apple HomePod mini — Best for Apple Ecosystem Gamers
+
+![Apple HomePod mini](https://m.media-amazon.com/images/I/71BVWV+ParL._AC_SL1500_.jpg)
 
 If your phone is an iPhone, your watch is an Apple Watch, and your laptop is a MacBook, the HomePod mini is the natural choice. Siri integration with iOS is seamless, AirPlay 2 makes it the easiest speaker to beam audio to, and its Thread border router capability future-proofs your smart home.
 
@@ -141,11 +145,13 @@ For HomeKit-based gaming rooms (with Eve, Nanoleaf, or Hue devices), the HomePod
 
 Apple ecosystem gamers. If you use HomeKit for your smart home, AirPlay for your audio, and Siri for your voice commands, the HomePod mini integrates perfectly. The Thread border router alone justifies it for HomeKit-heavy setups.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_HOMEPOD_MINI)**
+**👉 [Check Price on Amazon](https://www.amazon.com/s?k=Apple+HomePod+mini&tag=songtao-20)**
 
 ---
 
 ## 3. Amazon Echo Pop — Best Budget Smart Speaker
+
+![Amazon Echo Pop](https://m.media-amazon.com/images/I/61bTwy0ooPL._AC_SL1000_.jpg)
 
 The Echo Pop strips the Echo experience down to its essentials: a capable Alexa speaker at roughly half the price of the full Echo. No built-in hub, no temperature sensor, no adaptive audio — just a compact, well-sounding speaker with full Alexa access.
 
@@ -181,11 +187,13 @@ For gamers who primarily want voice control for their smart lights and a decent 
 
 Budget gamers or those who already have good speakers and just want a voice control endpoint for their smart home devices. At under $25, it's a no-brainer for adding Alexa to your gaming room.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_ECHO_POP)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B09WNK39JN?tag=songtao-20)**
 
 ---
 
 ## 4. Google Nest Audio — Best Sound Quality
+
+![Google Nest Audio](https://m.media-amazon.com/images/I/71UADKTtjxL._AC_SL1500_.jpg)
 
 If sound quality is your top priority, the Google Nest Audio is the best-sounding smart speaker in this price range — period. Google's custom-designed 75mm woofer and 19mm tweeter produce rich, room-filling sound with actual bass response and clear highs.
 
@@ -224,7 +232,7 @@ Google Assistant is arguably the smartest voice assistant for information querie
 
 Gamers who want the best audio experience from a smart speaker and prefer Google's ecosystem. If you use YouTube Music, Chromecast, and Google Home devices, the Nest Audio fits perfectly into your stack while sounding better than anything else in its price class.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_NEST_AUDIO)**
+**👉 [Check Price on Amazon](https://www.amazon.com/s?k=Google+Nest+Audio&tag=songtao-20)**
 
 ---
 
@@ -266,7 +274,7 @@ For streamers, the Echo Show 5 can display a chat feed or stream stats on screen
 
 Gamers who want visual information on their desk — weather, calendar, chat, camera feeds — without checking their phone. Also great for streamers who want a secondary info display that doesn't eat monitor space.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_ECHO_SHOW_5)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B09B2SBHQK?tag=songtao-20)**
 
 ---
 
@@ -335,13 +343,13 @@ Yes. A dedicated smart speaker has far-field microphones designed to hear you ac
 
 ## Final Verdict
 
-For most gamers, the **[Amazon Echo (5th Gen)](AFFILIATE_LINK_ECHO_5TH)** is the best smart speaker for a gaming room. Its built-in Zigbee/Matter/Thread hub, solid sound quality, and Alexa's powerful routine system make it the most capable voice control center for a smart gaming setup.
+For most gamers, the **[Amazon Echo (5th Gen)](https://www.amazon.com/dp/B09B8V1LZ3?tag=songtao-20)** is the best smart speaker for a gaming room. Its built-in Zigbee/Matter/Thread hub, solid sound quality, and Alexa's powerful routine system make it the most capable voice control center for a smart gaming setup.
 
-**Apple users** should get the **[HomePod mini](AFFILIATE_LINK_HOMEPOD_MINI)** — the Thread border router and AirPlay integration are unmatched in the Apple ecosystem.
+**Apple users** should get the **[HomePod mini](https://www.amazon.com/s?k=Apple+HomePod+mini&tag=songtao-20)** — the Thread border router and AirPlay integration are unmatched in the Apple ecosystem.
 
-**Audiophiles** should consider the **[Google Nest Audio](AFFILIATE_LINK_NEST_AUDIO)** for the best sound quality in the category.
+**Audiophiles** should consider the **[Google Nest Audio](https://www.amazon.com/s?k=Google+Nest+Audio&tag=songtao-20)** for the best sound quality in the category.
 
-**Budget gamers** can grab an **[Echo Pop](AFFILIATE_LINK_ECHO_POP)** for under $25 and get full Alexa voice control without compromise.
+**Budget gamers** can grab an **[Echo Pop](https://www.amazon.com/dp/B09WNK39JN?tag=songtao-20)** for under $25 and get full Alexa voice control without compromise.
 
 A smart speaker ties your entire gaming room together. Once you've experienced "Alexa, game time" and watched your lights, music, and devices respond in unison, you'll wonder how you ever gamed without one.
 

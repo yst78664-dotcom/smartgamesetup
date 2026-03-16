@@ -49,7 +49,9 @@ All monitors on this list support VESA mounting, making them compatible with pop
 
 ## 1. LG 27GR95QE-B — Best Overall Gaming Monitor
 
-[Check Price on Amazon]({{AFFILIATE_LINK_LG_27GR95QE}})
+![LG 27GR95QE OLED Gaming Monitor](https://m.media-amazon.com/images/I/91VnxRlSVgL._AC_SL1500_.jpg)
+
+[Check Price on Amazon](https://www.amazon.com/dp/B0CSGWXVBN?tag=songtao-20)
 
 The LG 27GR95QE-B is our top pick for 2026. This 27-inch QD-OLED panel delivers infinite contrast, stunning colors, and a buttery-smooth 240Hz refresh rate at 1440p — the sweet spot for most gamers.
 
@@ -75,13 +77,15 @@ What makes it perfect for a smart setup? The thin bezels look incredible in dual
 
 **Verdict:** If you want the best visual experience for a smart gaming room and game primarily in dark or mixed lighting, this is the monitor to beat.
 
-[Buy on Amazon]({{AFFILIATE_LINK_LG_27GR95QE}})
+[Buy on Amazon](https://www.amazon.com/dp/B0CSGWXVBN?tag=songtao-20)
 
 ---
 
 ## 2. Samsung Odyssey OLED G8 (2026) — Best 4K OLED
 
-[Check Price on Amazon]({{AFFILIATE_LINK_SAMSUNG_G8_OLED}})
+![Samsung Odyssey OLED G8 Gaming Monitor](https://m.media-amazon.com/images/I/716HqAu+u8L._AC_SL1500_.jpg)
+
+[Check Price on Amazon](https://www.amazon.com/dp/B0DHJ8B7TP?tag=songtao-20)
 
 Samsung's flagship 32-inch 4K QD-OLED is the dream display for gamers who want absolutely no compromises. The 2026 refresh brings 240Hz at full 4K resolution with improved anti-burn-in tech and a revamped Smart Hub OS built in.
 
@@ -108,13 +112,15 @@ The built-in smart features are a huge plus for integrated setups. Samsung's Gam
 
 **Verdict:** The ultimate gaming monitor for a smart setup. SmartThings integration means your monitor can literally control your room lighting. If budget isn't a concern, this is it.
 
-[Buy on Amazon]({{AFFILIATE_LINK_SAMSUNG_G8_OLED}})
+[Buy on Amazon](https://www.amazon.com/dp/B0DHJ8B7TP?tag=songtao-20)
 
 ---
 
 ## 3. ASUS ROG Swift PG27AQN — Best for Esports & Competitive Gaming
 
-[Check Price on Amazon]({{AFFILIATE_LINK_ASUS_PG27AQN}})
+![ASUS ROG Swift PG27AQN Gaming Monitor](https://m.media-amazon.com/images/I/81h+bGseNZL._AC_SL1500_.jpg)
+
+[Check Price on Amazon](https://www.amazon.com/dp/B0BHK7LLZD?tag=songtao-20)
 
 For competitive gamers who prioritize frame rate above all else, the ASUS ROG Swift PG27AQN offers an insane 360Hz refresh rate at 1440p. This is the fastest high-resolution monitor available, and the difference is noticeable in fast-paced shooters like Valorant and CS2.
 
@@ -141,13 +147,15 @@ The ROG Swift also features ASUS's Aura Sync RGB lighting on the rear panel, whi
 
 **Verdict:** If competitive gaming is your priority and you want a monitor that plays nice with your RGB ecosystem, the PG27AQN delivers unmatched speed.
 
-[Buy on Amazon]({{AFFILIATE_LINK_ASUS_PG27AQN}})
+[Buy on Amazon](https://www.amazon.com/dp/B0BHK7LLZD?tag=songtao-20)
 
 ---
 
 ## 4. Dell S2725QF — Best 4K Value
 
-[Check Price on Amazon]({{AFFILIATE_LINK_DELL_S2725QF}})
+![Dell S2725QF 4K Monitor](https://m.media-amazon.com/images/I/71lQNQPr+OL._AC_SL1500_.jpg)
+
+[Check Price on Amazon](https://www.amazon.com/dp/B0F1GFD44G?tag=songtao-20)
 
 Dell's S2725QF proves you don't need to spend a fortune to get a solid 4K gaming experience. This 27-inch IPS panel offers 160Hz at full 4K resolution with decent HDR support, making it a fantastic all-rounder for gaming, productivity, and media consumption.
 
@@ -174,13 +182,13 @@ Dell's monitors are known for their excellent build quality and ergonomic stands
 
 **Verdict:** The best balance of 4K resolution, refresh rate, and price. Ideal for gamers who also use their setup for work and want USB-C simplicity.
 
-[Buy on Amazon]({{AFFILIATE_LINK_DELL_S2725QF}})
+[Buy on Amazon](https://www.amazon.com/dp/B0F1GFD44G?tag=songtao-20)
 
 ---
 
 ## 5. Gigabyte M27U — Best Budget 4K Gaming Monitor
 
-[Check Price on Amazon]({{AFFILIATE_LINK_GIGABYTE_M27U}})
+[Check Price on Amazon](https://www.amazon.com/dp/B0C3Z74ZP5?tag=songtao-20)
 
 The Gigabyte M27U consistently punches above its weight. At frequently under $400 on sale, it delivers true 4K at 160Hz with a well-calibrated IPS panel. It's one of the most recommended budget 4K monitors in the gaming community for good reason.
 
@@ -207,13 +215,13 @@ For smart setup builders on a budget, the M27U leaves you more money to invest i
 
 **Verdict:** If you want 4K gaming without the premium price tag, the M27U is the smart choice. Put the savings toward Govee lights and a proper cable management kit.
 
-[Buy on Amazon]({{AFFILIATE_LINK_GIGABYTE_M27U}})
+[Buy on Amazon](https://www.amazon.com/dp/B0C3Z74ZP5?tag=songtao-20)
 
 ---
 
 ## 6. MSI MAG 275CQRF-QD — Best Budget 1440p Gaming Monitor
 
-[Check Price on Amazon]({{AFFILIATE_LINK_MSI_275CQRF}})
+[Check Price on Amazon](https://www.amazon.com/dp/B0DG6RT171?tag=songtao-20)
 
 Not everyone needs 4K, and for many gamers, 1440p at high refresh rates delivers a better overall experience — especially if your GPU isn't top-tier. The MSI MAG 275CQRF-QD uses a curved Rapid VA panel with quantum dots for vibrant colors and a 180Hz refresh rate.
 
@@ -240,13 +248,13 @@ The curved design is divisive, but for single-monitor smart setups, it provides 
 
 **Verdict:** The best gaming monitor under $300 in 2026. Perfect for gamers building a smart setup on a budget who still want great image quality.
 
-[Buy on Amazon]({{AFFILIATE_LINK_MSI_275CQRF}})
+[Buy on Amazon](https://www.amazon.com/dp/B0DG6RT171?tag=songtao-20)
 
 ---
 
 ## 7. LG 34GP950G-B — Best Ultrawide for Immersive Gaming
 
-[Check Price on Amazon]({{AFFILIATE_LINK_LG_34GP950G}})
+[Check Price on Amazon](https://www.amazon.com/dp/B097QF8CP3?tag=songtao-20)
 
 Ultrawide monitors are the pinnacle of immersion, and the LG 34GP950G-B is one of the best options in the 34-inch class. The Nano IPS panel covers the full DCI-P3 color space with impressive HDR600 performance, and the 3440×1440 resolution gives you that cinematic 21:9 aspect ratio.
 
@@ -273,7 +281,7 @@ For smart setup enthusiasts, an ultrawide monitor creates a stunning visual anch
 
 **Verdict:** If immersion is your goal and you have desk space to spare, the ultrawide experience is transformative — especially in a smart gaming room with synchronized ambient lighting.
 
-[Buy on Amazon]({{AFFILIATE_LINK_LG_34GP950G}})
+[Buy on Amazon](https://www.amazon.com/dp/B097QF8CP3?tag=songtao-20)
 
 ---
 

@@ -24,17 +24,19 @@ We bought and tested **7 of the most popular cable management kits** available i
 
 | Kit | Best For | Includes | Under-Desk Tray | Velcro Ties | Cable Sleeves | Price |
 |-----|----------|----------|-----------------|-------------|---------------|-------|
-| **Yecaye 192-Piece Kit** | Best overall value | Tray, clips, ties, sleeves, cord covers | ✅ (2x J-channel) | ✅ (50 pcs) | ✅ (4 pcs) | [Check Price](AFFILIATE_LINK_YECAYE_KIT) |
-| **EVEO Under Desk Tray** | Best under-desk tray | Steel mesh tray + hardware | ✅ (mesh basket) | ❌ | ❌ | [Check Price](AFFILIATE_LINK_EVEO_TRAY) |
-| **Stageek Cable Raceway Kit** | Best wall cable hiding | Adhesive raceways + connectors | ❌ | ❌ | ❌ | [Check Price](AFFILIATE_LINK_STAGEEK_RACEWAY) |
-| **JOTO Cable Sleeve Bundle** | Best cable grouping | 4 zip-up neoprene sleeves | ❌ | ❌ | ✅ (4 pcs) | [Check Price](AFFILIATE_LINK_JOTO_SLEEVE) |
-| **Scandinavian Hub Premium Kit** | Best premium option | Tray, sleeves, clips, ties, labels | ✅ (fabric tray) | ✅ (20 pcs) | ✅ (2 pcs) | [Check Price](AFFILIATE_LINK_SCANHUB_KIT) |
-| **Amazon Basics Cable Tray** | Best budget tray | Single steel mesh tray | ✅ (mesh basket) | ❌ | ❌ | [Check Price](AFFILIATE_LINK_AMAZONBASICS_TRAY) |
-| **Alex Tech Split Tubing** | Best for permanent runs | Split loom tubing (25 ft) | ❌ | ❌ | ❌ | [Check Price](AFFILIATE_LINK_ALEXTECH_TUBING) |
+| **Yecaye 192-Piece Kit** | Best overall value | Tray, clips, ties, sleeves, cord covers | ✅ (2x J-channel) | ✅ (50 pcs) | ✅ (4 pcs) | [Check Price](https://www.amazon.com/dp/B07Q8QN5CB?tag=songtao-20) |
+| **EVEO Under Desk Tray** | Best under-desk tray | Steel mesh tray + hardware | ✅ (mesh basket) | ❌ | ❌ | [Check Price](https://www.amazon.com/dp/B08DG2LY5B?tag=songtao-20) |
+| **Stageek Cable Raceway Kit** | Best wall cable hiding | Adhesive raceways + connectors | ❌ | ❌ | ❌ | [Check Price](https://www.amazon.com/dp/B07FFN2HN6?tag=songtao-20) |
+| **JOTO Cable Sleeve Bundle** | Best cable grouping | 4 zip-up neoprene sleeves | ❌ | ❌ | ✅ (4 pcs) | [Check Price](https://www.amazon.com/dp/B015HWXG4M?tag=songtao-20) |
+| **Scandinavian Hub Premium Kit** | Best premium option | Tray, sleeves, clips, ties, labels | ✅ (fabric tray) | ✅ (20 pcs) | ✅ (2 pcs) | [Check Price](https://www.amazon.com/dp/B07BCHKHTG?tag=songtao-20) |
+| **Amazon Basics Cable Tray** | Best budget tray | Single steel mesh tray | ✅ (mesh basket) | ❌ | ❌ | [Check Price](https://www.amazon.com/dp/B0BZ3GHM8N?tag=songtao-20) |
+| **Alex Tech Split Tubing** | Best for permanent runs | Split loom tubing (25 ft) | ❌ | ❌ | ❌ | [Check Price](https://www.amazon.com/dp/B07TCDTFL2?tag=songtao-20) |
 
 ---
 
 ## 1. Yecaye 192-Piece Cable Management Kit — Best Overall
+
+![Yecaye 192-Piece Cable Management Kit](https://m.media-amazon.com/images/I/81ktD3ANANL._AC_SL1500_.jpg)
 
 **⭐ Editor's Choice**
 
@@ -70,11 +72,13 @@ The J-channel trays screw into the underside of your desk and hold all your powe
 
 Anyone who wants a complete cable management overhaul in one purchase. If your gaming desk has never been organized, this kit handles everything from under-desk routing to wall cable hiding.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_YECAYE_KIT)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B07Q8QN5CB?tag=songtao-20)**
 
 ---
 
 ## 2. EVEO Under Desk Cable Management Tray — Best Dedicated Tray
+
+![EVEO Under Desk Cable Management Tray](https://m.media-amazon.com/images/I/71zX9yIAGwS._AC_SL1500_.jpg)
 
 If your main problem is cables dangling visibly under your desk, the EVEO tray solves it elegantly. This steel mesh basket mounts under your desk with included screws and holds your power strip, excess cable length, chargers, and adapters in one hidden compartment.
 
@@ -107,11 +111,13 @@ The mesh design allows airflow (important if your power strip gets warm) and the
 
 Gamers whose main cable eyesore is a visible power strip and cable tangle under the desk. Pair this with some velcro ties and your under-desk area goes from disaster to invisible.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_EVEO_TRAY)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B08DG2LY5B?tag=songtao-20)**
 
 ---
 
 ## 3. Stageek Cable Raceway Kit — Best for Wall Cable Hiding
+
+![Stageek Cable Raceway Kit](https://m.media-amazon.com/images/I/611igqsBYfL._AC_SL1200_.jpg)
 
 The cable run from your desk to the wall outlet is often the hardest to clean up. The Stageek raceway kit solves this with adhesive-backed plastic channels that stick to your wall and completely enclose cables behind a snap-on cover.
 
@@ -144,11 +150,13 @@ Each channel is paintable, so you can match your wall color for a nearly invisib
 
 Renters or anyone who can't drill into walls. Also perfect for hiding long cable runs from desk to outlet, TV cables, or Ethernet runs along baseboards.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_STAGEEK_RACEWAY)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B07FFN2HN6?tag=songtao-20)**
 
 ---
 
 ## 4. JOTO Cable Management Sleeve Bundle — Best for Cable Grouping
+
+![JOTO Cable Management Sleeve Bundle](https://m.media-amazon.com/images/I/51PEwCRekpL._AC_SL1027_.jpg)
 
 Sometimes you don't need a full kit — you just need to turn 8 visible cables into 2 clean bundles. The JOTO neoprene sleeves do exactly that. Each sleeve has a full-length zipper that opens flat, you lay your cables in, zip it up, and suddenly your cable mess becomes a single tidy tube.
 
@@ -179,7 +187,7 @@ Sometimes you don't need a full kit — you just need to turn 8 visible cables i
 
 Gamers who want a quick, tool-free improvement. If you can tolerate visible cable runs but want them to look neat and bundled, these sleeves are the easiest possible upgrade.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_JOTO_SLEEVE)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B015HWXG4M?tag=songtao-20)**
 
 ---
 
@@ -217,7 +225,7 @@ The attention to detail is noticeable — the velcro ties have a branded tab, th
 
 Gamers with clean, aesthetic-focused setups who want cable management that looks as good as the rest of their battlestation. Also a great gift option for the gamer who has everything.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_SCANHUB_KIT)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B07BCHKHTG?tag=songtao-20)**
 
 ---
 
@@ -249,7 +257,7 @@ If you just want a solid under-desk tray without the premium price, the Amazon B
 
 Budget-conscious gamers who want the single highest-impact cable management upgrade at the lowest price.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_AMAZONBASICS_TRAY)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B0BZ3GHM8N?tag=songtao-20)**
 
 ---
 
@@ -283,7 +291,7 @@ For gamers who want a permanent, professional-grade solution, split loom tubing 
 
 Gamers with pets who chew cables, long permanent cable runs (desk to router, wall-mounted TVs), or anyone who wants maximum cable protection.
 
-**👉 [Check Price on Amazon](AFFILIATE_LINK_ALEXTECH_TUBING)**
+**👉 [Check Price on Amazon](https://www.amazon.com/dp/B07TCDTFL2?tag=songtao-20)**
 
 ---
 
@@ -341,12 +349,12 @@ Use a combination of cable raceways (from monitor to desk) and adhesive cable cl
 
 ## Final Verdict
 
-For most gaming setups, the **[Yecaye 192-Piece Kit](AFFILIATE_LINK_YECAYE_KIT)** is the clear winner. It includes every type of cable management solution you'll need — trays, ties, sleeves, clips, and raceways — at a price that's hard to beat. One box, one afternoon, completely transformed desk.
+For most gaming setups, the **[Yecaye 192-Piece Kit](https://www.amazon.com/dp/B07Q8QN5CB?tag=songtao-20)** is the clear winner. It includes every type of cable management solution you'll need — trays, ties, sleeves, clips, and raceways — at a price that's hard to beat. One box, one afternoon, completely transformed desk.
 
 If you only want to solve one specific problem:
-- **Under-desk mess → [EVEO Cable Tray](AFFILIATE_LINK_EVEO_TRAY)**
-- **Wall cable runs → [Stageek Raceway Kit](AFFILIATE_LINK_STAGEEK_RACEWAY)**
-- **Quick cable bundling → [JOTO Sleeves](AFFILIATE_LINK_JOTO_SLEEVE)**
+- **Under-desk mess → [EVEO Cable Tray](https://www.amazon.com/dp/B08DG2LY5B?tag=songtao-20)**
+- **Wall cable runs → [Stageek Raceway Kit](https://www.amazon.com/dp/B07FFN2HN6?tag=songtao-20)**
+- **Quick cable bundling → [JOTO Sleeves](https://www.amazon.com/dp/B015HWXG4M?tag=songtao-20)**
 
 Cable management isn't glamorous, but it's the difference between a setup you're proud to show on Reddit and one you carefully angle the camera to avoid. An hour of work and $20-40 is all it takes.
 

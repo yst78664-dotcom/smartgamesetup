@@ -38,13 +38,15 @@ We bought both, mounted them side by side, and spent three weeks gaming under ea
 | **Modular expansion** | ✅ (snap-together) | ✅ (snap-together) |
 | **Max panels** | 500 (with multiple controllers) | 15 per controller |
 | **Thread/Matter** | ✅ | ❌ |
-| **Price (starter kit)** | [Check Price](AFFILIATE_LINK_NANOLEAF_HEXAGONS) | [Check Price](AFFILIATE_LINK_GOVEE_HEXAGONS) |
+| **Price (starter kit)** | [Check Price](https://www.amazon.com/dp/B08N62R79Z?tag=songtao-20) | [Check Price](https://www.amazon.com/dp/B09FK1GSXY?tag=songtao-20) |
 
 ---
 
 ## Design & Build Quality
 
 ### Nanoleaf Shapes Hexagons
+
+![Nanoleaf Shapes Hexagons](https://m.media-amazon.com/images/I/61Ej+NhroTL._AC_SL1500_.jpg)
 
 Nanoleaf panels feel premium in hand. Each hexagon is made from thick, sturdy plastic with a matte diffuser surface that spreads light beautifully and evenly. The mounting system uses snap-together connectors that link power and data between panels, and mounting plates with adhesive strips attach to your wall.
 
@@ -53,6 +55,8 @@ The design language is clean and minimal — when the panels are off, they look 
 Each panel is a single color zone, meaning one panel = one color at a time. To create gradients or flowing effects, you need multiple panels working together.
 
 ### Govee Glide Hexagon Light Panels
+
+![Govee Glide Hexagon Light Panels](https://m.media-amazon.com/images/I/61WCvyYZPcL._AC_SL1500_.jpg)
 
 Govee's hexagons are noticeably lighter and thinner than Nanoleaf's. The plastic feels a step below in terms of rigidity, but once mounted on a wall, you'd never notice — they look great. The frosted diffuser does a good job of spreading light, though close inspection reveals slightly more visible LED structure compared to Nanoleaf.
 
@@ -242,6 +246,8 @@ If you're building your first gaming setup and every dollar counts, Govee gives 
 
 ### Nanoleaf Shapes Hexagons
 
+![Nanoleaf Shapes Hexagons](https://m.media-amazon.com/images/I/61Ej+NhroTL._AC_SL1500_.jpg)
+
 **Pros:**
 - ✅ Superior build quality and light diffusion
 - ✅ Best-in-class app with community scene marketplace
@@ -259,6 +265,8 @@ If you're building your first gaming setup and every dollar counts, Govee gives 
 - ❌ Adhesive can damage some wall paints
 
 ### Govee Glide Hexagon Light Panels
+
+![Govee Glide Hexagon Light Panels](https://m.media-amazon.com/images/I/61WCvyYZPcL._AC_SL1500_.jpg)
 
 **Pros:**
 - ✅ Much more affordable — nearly half the cost
@@ -291,7 +299,7 @@ If you're building your first gaming setup and every dollar counts, Govee gives 
 - You want the **best app experience** and community scenes
 - Budget is secondary to quality
 
-**👉 [Buy Nanoleaf Shapes Hexagons on Amazon](AFFILIATE_LINK_NANOLEAF_HEXAGONS)**
+**👉 [Buy Nanoleaf Shapes Hexagons on Amazon](https://www.amazon.com/dp/B08N62R79Z?tag=songtao-20)**
 
 ### Buy Govee Glide Hexagon Lights if:
 
@@ -303,7 +311,7 @@ If you're building your first gaming setup and every dollar counts, Govee gives 
 - You want a **bigger installation** without breaking the bank
 - You already own other **Govee products**
 
-**👉 [Buy Govee Glide Hexagon Lights on Amazon](AFFILIATE_LINK_GOVEE_HEXAGONS)**
+**👉 [Buy Govee Glide Hexagon Lights on Amazon](https://www.amazon.com/dp/B09FK1GSXY?tag=songtao-20)**
 
 ---
 
@@ -311,10 +319,10 @@ If you're building your first gaming setup and every dollar counts, Govee gives 
 
 If neither Nanoleaf nor Govee feels right, consider these alternatives:
 
-- **Nanoleaf Triangles / Mini Triangles** — Same Nanoleaf quality in triangle shapes. Mix with hexagons for creative layouts. [Check Price](AFFILIATE_LINK_NANOLEAF_TRIANGLES)
-- **Nanoleaf Lines** — Backlit light bars that mount to walls in angular patterns. Different aesthetic, same ecosystem. [Check Price](AFFILIATE_LINK_NANOLEAF_LINES)
-- **LIFX Beam** — Smart light bars with HomeKit support and excellent color accuracy. Less "panel" and more "accent." [Check Price](AFFILIATE_LINK_LIFX_BEAM)
-- **Cololight Hexagon Pro** — Budget alternative to Govee with similar RGBIC tech and slightly better diffusion. [Check Price](AFFILIATE_LINK_COLOLIGHT)
+- **Nanoleaf Triangles / Mini Triangles** — Same Nanoleaf quality in triangle shapes. Mix with hexagons for creative layouts. [Check Price](https://www.amazon.com/dp/B08N68WPPB?tag=songtao-20)
+- **Nanoleaf Lines** — Backlit light bars that mount to walls in angular patterns. Different aesthetic, same ecosystem. [Check Price](https://www.amazon.com/dp/B09LWVWN8M?tag=songtao-20)
+- **LIFX Beam** — Smart light bars with HomeKit support and excellent color accuracy. Less "panel" and more "accent." [Check Price](https://www.amazon.com/dp/B073177QS8?tag=songtao-20)
+- **Cololight Hexagon Pro** — Budget alternative to Govee with similar RGBIC tech and slightly better diffusion. [Check Price](https://www.amazon.com/dp/B088TGKSB6?tag=songtao-20)
 
 ---
 
@@ -354,7 +362,7 @@ Both look great on camera. Nanoleaf's cleaner diffusion photographs slightly bet
 
 The **Nanoleaf vs Govee hexagon** debate ultimately comes down to **premium experience vs value**. Nanoleaf is the better product in almost every measurable way — build quality, app, smart home support, expandability, and color accuracy. But Govee is *good enough* at nearly half the price, with the bonus of RGBIC multi-color panels and included console-friendly screen sync.
 
-Our recommendation? If you can stretch your budget, **[Nanoleaf Shapes Hexagons](AFFILIATE_LINK_NANOLEAF_HEXAGONS)** will serve you better long-term and integrate more deeply into your smart home. If you're budget-conscious or just starting your gaming setup journey, **[Govee Glide Hexagon Lights](AFFILIATE_LINK_GOVEE_HEXAGONS)** deliver outstanding bang for the buck.
+Our recommendation? If you can stretch your budget, **[Nanoleaf Shapes Hexagons](https://www.amazon.com/dp/B08N62R79Z?tag=songtao-20)** will serve you better long-term and integrate more deeply into your smart home. If you're budget-conscious or just starting your gaming setup journey, **[Govee Glide Hexagon Lights](https://www.amazon.com/dp/B09FK1GSXY?tag=songtao-20)** deliver outstanding bang for the buck.
 
 Either way, you're going to love the way your gaming room looks.
 
