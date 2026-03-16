@@ -264,7 +264,7 @@ Alexa users who want dead-simple voice control over their gaming setup power. "A
 ## Smart Plug Power Management Tips for Gamers
 
 ### Create a "Game Time" Routine
-Set up a voice routine that turns on your gaming PC's smart plug, your monitor plug, and your smart lights simultaneously. One command powers up your entire battlestation.
+Set up a voice routine that turns on your gaming PC's smart plug, your monitor plug, and your [LED strip lights](/best-led-strip-lights-gaming-setup/) simultaneously. One command powers up your entire battlestation. Pair it with a [smart speaker](/best-smart-speaker-for-gaming-room-2026/) for hands-free voice control.
 
 ### Schedule Auto-Off at Bedtime
 Set your gaming setup's smart plug to turn off at 1 AM (or whenever your cutoff should be). This kills phantom power and serves as a gentle reminder that it's time to stop gaming.

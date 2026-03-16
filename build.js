@@ -36,6 +36,9 @@ function build() {
       .map(a => `<a href="/${a.slug}/" class="related-card"><h4>${a.title}</h4><p>${(a.description || '').slice(0, 100)}...</p></a>`)
       .join('\n');
     
+    // Extract FAQ schema from markdown content
+    const faqSchema = extractFAQSchema(art.content);
+    
     let page = TEMPLATE
       .replace(/\{\{title\}\}/g, art.title || 'Untitled')
       .replace(/\{\{description\}\}/g, art.description || '')
@@ -45,6 +48,11 @@ function build() {
       .replace(/\{\{content\}\}/g, html)
       .replace(/\{\{related\}\}/g, related)
       .replace(/\{\{ga_id\}\}/g, GA_ID);
+    
+    // Inject FAQ schema into <head> if FAQs were found
+    if (faqSchema) {
+      page = page.replace('</head>', faqSchema + '\n</head>');
+    }
     
     const outDir = path.join(DOCS_DIR, art.slug);
     fs.mkdirSync(outDir, { recursive: true });
@@ -649,6 +657,60 @@ function buildNewsPage() {
   fs.mkdirSync(outDir, { recursive: true });
   fs.writeFileSync(path.join(outDir, 'index.html'), html);
   console.log('  ✅ /news/');
+}
+
+function extractFAQSchema(markdownContent) {
+  // Normalize line endings to \n
+  const content = markdownContent.replace(/\r\n/g, '\n');
+  
+  // Find FAQ section (## FAQ or ## Frequently Asked Questions)
+  const faqMatch = content.match(/## (?:FAQ|Frequently Asked Questions)\s*\n([\s\S]*?)(?=\n## [^#]|\n---\s*$|$)/i);
+  if (!faqMatch) return null;
+  
+  const faqSection = faqMatch[1];
+  
+  // Extract Q&A pairs - support ### headings and **Q:** format
+  const qaItems = [];
+  
+  // Pattern 1: ### Question\n\nAnswer
+  const headingPattern = /### (.+?)\n\n?([\s\S]*?)(?=\n### |\n## |$)/g;
+  let match;
+  while ((match = headingPattern.exec(faqSection)) !== null) {
+    const question = match[1].trim();
+    const answer = match[2].trim().replace(/\n+/g, ' ').replace(/\*\*/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+    if (question && answer) {
+      qaItems.push({ question, answer });
+    }
+  }
+  
+  // Pattern 2: **Q: question**\nA: answer
+  if (qaItems.length === 0) {
+    const qPattern = /\*\*(?:Q:\s*)?(.+?)\*\*\s*\n+(?:A:\s*)?(.+?)(?=\n\n\*\*|\n## |$)/g;
+    while ((match = qPattern.exec(faqSection)) !== null) {
+      const question = match[1].trim();
+      const answer = match[2].trim().replace(/\*\*/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+      if (question && answer) {
+        qaItems.push({ question, answer });
+      }
+    }
+  }
+  
+  if (qaItems.length === 0) return null;
+  
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": qaItems.map(qa => ({
+      "@type": "Question",
+      "name": qa.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": qa.answer
+      }
+    }))
+  };
+  
+  return `  <script type="application/ld+json">\n  ${JSON.stringify(schema, null, 2).split('\n').join('\n  ')}\n  </script>`;
 }
 
 console.log('🔨 Building SmartGameSetup...\n');
