@@ -81,6 +81,9 @@ function build() {
   // Privacy page
   buildPrivacyPage();
   
+  // News page
+  buildNewsPage();
+  
   console.log(`\n🎉 Built ${articles.length} articles + category pages → ${DOCS_DIR}`);
 }
 
@@ -134,7 +137,7 @@ function generateIndex(articles) {
 <body>
   <header class="header"><div class="header-inner">
     <a href="/" class="logo">Smart<span>Game</span>Setup</a>
-    <nav><a href="/">Home</a><a href="/reviews/">Reviews</a><a href="/guides/">Guides</a><a href="/about/">About</a></nav>
+    <nav><a href="/">Home</a><a href="/about/">About</a><a href="/news/">News</a></nav>
   </div></header>
   <div class="hero">
     <h1>Level Up Your <em>Gaming Room</em></h1>
@@ -399,6 +402,125 @@ function buildPrivacyPage() {
   fs.mkdirSync(outDir, { recursive: true });
   fs.writeFileSync(path.join(outDir, 'index.html'), html);
   console.log('  ✅ /privacy/');
+}
+
+function buildNewsPage() {
+  const newsItems = [
+    {
+      title: 'Philips Hue SpatialAware Smart Lighting',
+      tag: 'CES 2026',
+      desc: 'Philips Hue\'s next-gen system uses AR to scan your room via smartphone camera, creating a 3D spatial map of every light. Colors are distributed intentionally based on actual placement — sunset scenes flow naturally across the room. A game-changer for immersive gaming atmospheres.',
+      expected: 'Expected Q3 2026',
+      icon: '💡'
+    },
+    {
+      title: 'ASUS ROG AniME Holo Lighting System',
+      tag: 'CES 2026',
+      desc: 'Embedded directly into glass PC panels, AniME Holo projects full-color holographic animations across three distinct zones. Debuted on the ROG G1000 desktop — expect standalone panels and ecosystem integration later this year.',
+      expected: 'Expected Mid 2026',
+      icon: '🖥️'
+    },
+    {
+      title: 'Govee Spherical Net Lights',
+      tag: 'Spotted in CSA Database',
+      desc: 'Govee\'s upcoming smart outdoor lighting product was recently found in the Connectivity Standards Alliance database, hinting at Matter support out of the box. Could double as ambient gaming room décor with its unique spherical net design.',
+      expected: 'Expected 2026',
+      icon: '🌐'
+    },
+    {
+      title: 'Nanoleaf x Umbra Cono (New Colors)',
+      tag: 'Rumored',
+      desc: 'The premium smart light collab between Nanoleaf and Umbra is reportedly getting new colorways and a gaming-focused preset pack. The original Cono is already a top-tier desk accent — new variants could be perfect for streaming setups.',
+      expected: 'Expected Spring 2026',
+      icon: '🔺'
+    },
+    {
+      title: 'Lenovo Legion Pro Rollable Display',
+      tag: 'CES 2026',
+      desc: 'A gaming laptop with a screen that physically expands from 16" to 24" ultrawide via dual-motor design. Three modes: Focus (16"), Tactical (21.5"), and Arena (24"). Powered by Intel Core Ultra + RTX 5090. Built for esports athletes who travel.',
+      expected: 'Expected Late 2026',
+      icon: '💻'
+    },
+    {
+      title: 'Philips Hue Essential Smart Bulbs',
+      tag: 'New Release',
+      desc: 'A more affordable entry point into the Hue ecosystem. Full color range, Matter-compatible, and works with existing Hue bridges. Great for gamers wanting to start with smart lighting without the premium price tag.',
+      expected: 'Available Now',
+      icon: '💰'
+    }
+  ];
+
+  const cards = newsItems.map(item => `
+    <div class="news-card">
+      <div class="news-icon">${item.icon}</div>
+      <div class="news-content">
+        <div class="news-tags">
+          <span class="news-tag">${item.tag}</span>
+          <span class="news-date">${item.expected}</span>
+        </div>
+        <h2>${item.title}</h2>
+        <p>${item.desc}</p>
+      </div>
+    </div>`).join('\n');
+
+  const html = `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>News - Upcoming Smart Gaming Products | SmartGameSetup</title>
+  <meta name="description" content="Upcoming smart gaming products worth watching — from CES 2026 reveals to rumored releases. Stay ahead of the curve.">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_ID}');</script>
+  <style>
+    * { margin:0; padding:0; box-sizing:border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f0f1a; color: #f1f5f9; line-height:1.7; }
+    .header { background: linear-gradient(135deg, #1a1a2e, #16213e); padding: 20px 0; border-bottom: 2px solid #7c3aed; }
+    .header-inner { max-width:1100px; margin:0 auto; padding:0 20px; display:flex; justify-content:space-between; align-items:center; }
+    .logo { color:#7c3aed; font-size:24px; font-weight:800; text-decoration:none; }
+    .logo span { color:#22d3ee; }
+    nav a { color:#94a3b8; text-decoration:none; margin-left:30px; font-size:15px; }
+    nav a:hover { color:#7c3aed; }
+    .hero { text-align:center; padding:60px 20px 40px; background:linear-gradient(180deg,#1a1a2e,#0f0f1a); }
+    .hero h1 { font-size:42px; margin-bottom:15px; }
+    .hero h1 em { color:#7c3aed; font-style:normal; }
+    .hero p { color:#94a3b8; font-size:18px; max-width:600px; margin:0 auto; }
+    .news-list { max-width:800px; margin:0 auto; padding:40px 20px; }
+    .news-card { background:#1a1a2e; border:1px solid #334155; border-radius:12px; padding:30px; margin-bottom:20px; display:flex; gap:20px; transition:all 0.3s; }
+    .news-card:hover { border-color:#7c3aed; box-shadow:0 4px 20px rgba(124,58,237,0.15); }
+    .news-icon { font-size:40px; flex-shrink:0; width:60px; height:60px; display:flex; align-items:center; justify-content:center; background:#16213e; border-radius:12px; }
+    .news-content { flex:1; }
+    .news-tags { display:flex; gap:10px; align-items:center; margin-bottom:8px; flex-wrap:wrap; }
+    .news-tag { display:inline-block; background:#7c3aed; color:#fff; font-size:11px; font-weight:700; text-transform:uppercase; padding:3px 8px; border-radius:4px; }
+    .news-date { color:#22d3ee; font-size:13px; font-weight:600; }
+    .news-content h2 { font-size:20px; margin-bottom:8px; color:#f1f5f9; }
+    .news-content p { color:#94a3b8; font-size:15px; margin:0; }
+    .updated { text-align:center; color:#64748b; font-size:14px; padding:20px; }
+    .footer { text-align:center; padding:40px; color:#64748b; font-size:14px; }
+    @media (max-width:768px) { .hero h1 { font-size:32px; } .news-card { flex-direction:column; } .news-icon { width:50px; height:50px; font-size:30px; } }
+  </style>
+</head>
+<body>
+  <header class="header"><div class="header-inner">
+    <a href="/" class="logo">Smart<span>Game</span>Setup</a>
+    <nav><a href="/">Home</a><a href="/about/">About</a><a href="/news/">News</a></nav>
+  </div></header>
+  <div class="hero">
+    <h1>🚀 <em>Upcoming</em> Products</h1>
+    <p>New and unreleased smart gaming gear worth keeping an eye on.</p>
+  </div>
+  <div class="news-list">
+    ${cards}
+  </div>
+  <div class="updated">Last updated: March 2026</div>
+  <footer class="footer"><p>&copy; 2026 SmartGameSetup.com · <a href="/privacy/" style="color:#64748b">Privacy</a> · <a href="/about/" style="color:#64748b">About</a></p></footer>
+</body>
+</html>`;
+
+  const outDir = path.join(DOCS_DIR, 'news');
+  fs.mkdirSync(outDir, { recursive: true });
+  fs.writeFileSync(path.join(outDir, 'index.html'), html);
+  console.log('  ✅ /news/');
 }
 
 console.log('🔨 Building SmartGameSetup...\n');
