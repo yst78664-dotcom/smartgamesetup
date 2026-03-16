@@ -3,6 +3,7 @@ title: "Govee vs Philips Hue for Gaming: Which Smart Lights Win in 2026?"
 description: "Govee vs Philips Hue - a detailed comparison for gamers. We compare price, features, game sync, ecosystem, and ease of use to find the best smart lights for gaming."
 slug: govee-vs-philips-hue-gaming-lights
 date: 2026-03-15
+topic: "smart-lighting"
 category: "comparison"
 keywords:
   - govee vs philips hue

@@ -81,23 +81,66 @@ function build() {
   // Privacy page
   buildPrivacyPage();
   
+  // Topic pages
+  for (const [key, topic] of Object.entries(TOPICS)) {
+    buildTopicPage(articles, key, topic);
+  }
+  
   // News page
   buildNewsPage();
   
   console.log(`\n🎉 Built ${articles.length} articles + category pages → ${DOCS_DIR}`);
 }
 
+// Topic definitions
+const TOPICS = {
+  'smart-lighting': { name: 'Smart Lighting', icon: '💡', desc: 'RGB lights, light bars, LED strips, and smart bulbs for your gaming room' },
+  'gaming-monitors': { name: 'Gaming Monitors', icon: '🖥️', desc: 'High refresh rate displays and monitor setups for competitive and immersive gaming' },
+  'desk-setup': { name: 'Desk & Chairs', icon: '🪑', desc: 'Gaming desks, ergonomic chairs, and workspace essentials' },
+  'smart-audio': { name: 'Smart Audio', icon: '🔊', desc: 'Soundbars, smart speakers, and audio gear for your gaming setup' },
+  'power-management': { name: 'Power & Smart Plugs', icon: '⚡', desc: 'Smart plugs, surge protectors, and power management for your station' },
+  'cable-management': { name: 'Cable Management', icon: '🔌', desc: 'Cable organizers, raceways, and tips to keep your setup clean' }
+};
+
 function generateIndex(articles) {
-  const cards = articles.map(a => `
+  const now = new Date();
+  const currentMonth = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}`;
+  
+  // Filter to current month articles
+  const recent = articles
+    .filter(a => String(a.date || '').slice(0, 7) === currentMonth)
+    .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+  
+  const displayArticles = recent.length > 0 ? recent : articles.slice(0, 6);
+  
+  const cards = displayArticles.map(a => {
+    const topicKey = a.data.topic || '';
+    const topicInfo = TOPICS[topicKey] || {};
+    return `
     <a href="/${a.slug}/" class="card">
-      <div class="card-category">${a.category || 'review'}</div>
+      <div class="card-category">${topicInfo.name || a.category || 'review'}</div>
       <h2>${a.title}</h2>
       <p>${a.description || ''}</p>
       <div class="card-meta">
         <span class="stars">★★★★★</span>
         <span>${a.date} · ${a.readtime} min read</span>
       </div>
-    </a>`).join('\n');
+    </a>`;
+  }).join('\n');
+  
+  // Topic grid
+  const topicCards = Object.entries(TOPICS).map(([key, t]) => {
+    const count = articles.filter(a => (a.data.topic || '') === key).length;
+    return `
+    <a href="/topics/${key}/" class="topic-card">
+      <span class="topic-icon">${t.icon}</span>
+      <h3>${t.name}</h3>
+      <p>${count > 0 ? count + ' article' + (count > 1 ? 's' : '') : 'Coming soon'}</p>
+    </a>`;
+  }).join('\n');
+
+  const monthNames = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+  const monthLabel = monthNames[now.getMonth()] + ' ' + now.getFullYear();
   
   return `<!DOCTYPE html>
 <html lang="en">
@@ -123,7 +166,16 @@ function generateIndex(articles) {
     .hero h1 em { color:#7c3aed; font-style:normal; }
     .hero p { color:#94a3b8; font-size:20px; max-width:600px; margin:0 auto; }
     .hero .subtitle { color:#22d3ee; font-size:16px; margin-top:15px; }
-    .grid { max-width:1100px; margin:0 auto; padding:40px 20px; display:grid; grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); gap:25px; }
+    .section-title { max-width:1100px; margin:0 auto; padding:40px 20px 10px; font-size:28px; font-weight:700; }
+    .section-title em { color:#7c3aed; font-style:normal; }
+    .section-subtitle { max-width:1100px; margin:0 auto; padding:0 20px; color:#64748b; font-size:15px; }
+    .topics-grid { max-width:1100px; margin:0 auto; padding:30px 20px; display:grid; grid-template-columns:repeat(auto-fill,minmax(160px,1fr)); gap:15px; }
+    .topic-card { background:#1a1a2e; border:1px solid #334155; border-radius:10px; padding:20px; text-decoration:none; text-align:center; transition:all 0.3s; }
+    .topic-card:hover { border-color:#7c3aed; transform:translateY(-2px); box-shadow:0 4px 15px rgba(124,58,237,0.2); }
+    .topic-icon { font-size:32px; display:block; margin-bottom:8px; }
+    .topic-card h3 { color:#f1f5f9; font-size:14px; margin-bottom:4px; }
+    .topic-card p { color:#64748b; font-size:12px; margin:0; }
+    .grid { max-width:1100px; margin:0 auto; padding:20px 20px 40px; display:grid; grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); gap:25px; }
     .card { background:#1a1a2e; border:1px solid #334155; border-radius:12px; padding:30px; text-decoration:none; transition:all 0.3s; position:relative; overflow:hidden; }
     .card:hover { border-color:#7c3aed; transform:translateY(-3px); box-shadow:0 8px 30px rgba(124,58,237,0.2); }
     .card-category { display:inline-block; background:#7c3aed; color:#fff; font-size:11px; font-weight:700; text-transform:uppercase; padding:4px 10px; border-radius:4px; margin-bottom:12px; }
@@ -132,7 +184,7 @@ function generateIndex(articles) {
     .card-meta { display:flex; justify-content:space-between; align-items:center; font-size:13px; color:#64748b; }
     .card-meta .stars { color:#fbbf24; font-size:14px; letter-spacing:1px; }
     .footer { text-align:center; padding:40px; color:#64748b; font-size:14px; }
-    @media (max-width:768px) { .hero h1 { font-size:32px; } .grid { grid-template-columns:1fr; } }
+    @media (max-width:768px) { .hero h1 { font-size:32px; } .grid { grid-template-columns:1fr; } .topics-grid { grid-template-columns:repeat(3,1fr); } }
   </style>
 </head>
 <body>
@@ -145,6 +197,10 @@ function generateIndex(articles) {
     <p>Expert reviews, guides, and comparisons for the ultimate smart gaming setup.</p>
     <p class="subtitle">⭐ Trusted by gamers · Updated weekly · Unbiased reviews</p>
   </div>
+  <h2 class="section-title">📂 Browse by <em>Category</em></h2>
+  <div class="topics-grid">${topicCards}</div>
+  <h2 class="section-title">🆕 Latest — <em>${monthLabel}</em></h2>
+  <p class="section-subtitle">${displayArticles.length} articles this month</p>
   <div class="grid">${cards}</div>
   <footer class="footer"><p>&copy; 2026 SmartGameSetup.com · <a href="/privacy/" style="color:#64748b">Privacy</a> · <a href="/about/" style="color:#64748b">About</a></p></footer>
 </body>
@@ -403,6 +459,77 @@ function buildPrivacyPage() {
   fs.mkdirSync(outDir, { recursive: true });
   fs.writeFileSync(path.join(outDir, 'index.html'), html);
   console.log('  ✅ /privacy/');
+}
+
+function buildTopicPage(articles, topicKey, topic) {
+  const filtered = articles.filter(a => (a.data.topic || '') === topicKey);
+  
+  const cards = filtered.map(a => `
+    <a href="/${a.slug}/" class="card">
+      <div class="card-category">${a.category || 'review'}</div>
+      <h2>${a.title}</h2>
+      <p>${(a.description || '').slice(0, 150)}...</p>
+      <div class="card-meta">
+        <span class="stars">★★★★★</span>
+        <span>${a.date} · ${a.readtime} min read</span>
+      </div>
+    </a>`).join('\n');
+
+  const html = `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>${topic.name} - SmartGameSetup</title>
+  <meta name="description" content="${topic.desc}">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_ID}');</script>
+  <style>
+    * { margin:0; padding:0; box-sizing:border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f0f1a; color: #f1f5f9; }
+    .header { background: linear-gradient(135deg, #1a1a2e, #16213e); padding: 20px 0; border-bottom: 2px solid #7c3aed; }
+    .header-inner { max-width:1100px; margin:0 auto; padding:0 20px; display:flex; justify-content:space-between; align-items:center; }
+    .logo { color:#7c3aed; font-size:24px; font-weight:800; text-decoration:none; }
+    .logo span { color:#22d3ee; }
+    nav a { color:#94a3b8; text-decoration:none; margin-left:30px; font-size:15px; }
+    nav a:hover { color:#7c3aed; }
+    .hero { text-align:center; padding:60px 20px 40px; background:linear-gradient(180deg,#1a1a2e,#0f0f1a); }
+    .hero h1 { font-size:42px; margin-bottom:15px; }
+    .hero h1 em { color:#7c3aed; font-style:normal; }
+    .hero p { color:#94a3b8; font-size:18px; max-width:600px; margin:0 auto; }
+    .hero .icon { font-size:48px; margin-bottom:15px; }
+    .grid { max-width:1100px; margin:0 auto; padding:40px 20px; display:grid; grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); gap:25px; }
+    .card { background:#1a1a2e; border:1px solid #334155; border-radius:12px; padding:30px; text-decoration:none; transition:all 0.3s; }
+    .card:hover { border-color:#7c3aed; transform:translateY(-3px); box-shadow:0 8px 30px rgba(124,58,237,0.2); }
+    .card-category { display:inline-block; background:#7c3aed; color:#fff; font-size:11px; font-weight:700; text-transform:uppercase; padding:4px 10px; border-radius:4px; margin-bottom:12px; }
+    .card h2 { color:#f1f5f9; font-size:20px; margin-bottom:10px; }
+    .card p { color:#94a3b8; font-size:15px; margin-bottom:15px; }
+    .card-meta { display:flex; justify-content:space-between; align-items:center; font-size:13px; color:#64748b; }
+    .card-meta .stars { color:#fbbf24; font-size:14px; }
+    .empty { text-align:center; padding:80px 20px; color:#64748b; font-size:18px; }
+    .footer { text-align:center; padding:40px; color:#64748b; font-size:14px; }
+    @media (max-width:768px) { .hero h1 { font-size:32px; } .grid { grid-template-columns:1fr; } }
+  </style>
+</head>
+<body>
+  <header class="header"><div class="header-inner">
+    <a href="/" class="logo">Smart<span>Game</span>Setup</a>
+    <nav><a href="/">Home</a><a href="/about/">About</a><a href="/news/">News</a></nav>
+  </div></header>
+  <div class="hero">
+    <div class="icon">${topic.icon}</div>
+    <h1><em>${topic.name}</em></h1>
+    <p>${topic.desc}</p>
+  </div>
+  ${filtered.length > 0 ? `<div class="grid">${cards}</div>` : '<div class="empty">🚧 Articles coming soon! Check back for new content.</div>'}
+  <footer class="footer"><p>&copy; 2026 SmartGameSetup.com · <a href="/" style="color:#64748b">Home</a> · <a href="/about/" style="color:#64748b">About</a></p></footer>
+</body>
+</html>`;
+
+  const outDir = path.join(DOCS_DIR, 'topics', topicKey);
+  fs.mkdirSync(outDir, { recursive: true });
+  fs.writeFileSync(path.join(outDir, 'index.html'), html);
+  console.log(`  ✅ /topics/${topicKey}/ (${filtered.length} articles)`);
 }
 
 function buildNewsPage() {

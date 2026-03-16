@@ -3,6 +3,7 @@ title: "7 Best LED Strip Lights for Gaming Setup in 2026 (Researched & Ranked)"
 description: "Looking for the best LED strip lights for your gaming room? We analyzed 15+ options and ranked the top 7. From Govee to Philips Hue, find the perfect RGB lighting for your setup."
 slug: "best-led-strip-lights-gaming-setup"
 date: "2026-03-15"
+topic: "smart-lighting"
 category: "reviews"
 keywords: ["best led strip lights for gaming", "gaming room led lights", "rgb strip lights gaming setup"]
 ---

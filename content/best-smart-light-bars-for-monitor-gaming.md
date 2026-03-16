@@ -3,6 +3,7 @@ title: "5 Best Smart Light Bars for Monitor Gaming in 2026 (Tested & Compared)"
 description: "Looking for the best smart light bars to mount behind your gaming monitor? We tested and compared the top 5 monitor light bars for ambient lighting, eye strain reduction, and RGB gaming aesthetics."
 slug: best-smart-light-bars-for-monitor-gaming
 date: 2026-03-16
+topic: "smart-lighting"
 category: "listicle"
 keywords:
   - best smart light bars for monitor gaming
