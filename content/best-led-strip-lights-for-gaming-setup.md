@@ -53,7 +53,7 @@ But with hundreds of options on Amazon, how do you pick the right one? We tested
 
 **Verdict:** If you want the best bang for your buck, the Govee RGBIC Pro is a no-brainer. It offers features that used to cost $100+ for just $30.
 
-<a href="#" class="btn-amazon">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B098PBWZLL?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
 </div>
 
 ## 2. Philips Hue Gradient Lightstrip — Premium Pick
@@ -84,7 +84,7 @@ But with hundreds of options on Amazon, how do you pick the right one? We tested
 
 **Verdict:** The Rolls-Royce of LED strips. Worth it if you're building a premium setup and want everything to work flawlessly.
 
-<a href="#" class="btn-amazon">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B09BDK76R2?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
 </div>
 
 ## 3. Govee Neon Rope Light — Best Aesthetic
@@ -113,7 +113,7 @@ But with hundreds of options on Amazon, how do you pick the right one? We tested
 
 **Verdict:** The best choice if aesthetics are your priority. Creates that clean "neon sign" look that's all over Instagram gaming setups.
 
-<a href="#" class="btn-amazon">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B0CQN1B4JM?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
 </div>
 
 ## 4. LIFX Z Strip — Best No-Hub Option
@@ -122,7 +122,7 @@ The LIFX Z connects directly to your Wi-Fi — no hub, no bridge, no extra hardw
 
 **Best for:** Gamers who want premium quality without dealing with hubs or bridges.
 
-<a href="#" class="btn-amazon">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B091ZT4L78?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
 
 ## 5. Nanoleaf Essentials Lightstrip — Best Matter Support
 
@@ -130,7 +130,7 @@ Nanoleaf was one of the first brands to support the Matter smart home standard. 
 
 **Best for:** Smart home enthusiasts who want maximum compatibility.
 
-<a href="#" class="btn-amazon">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B0C54FGC52?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
 
 ## 6. Corsair iCUE LS100 — Best for PC Gamers
 
@@ -138,7 +138,7 @@ Specifically designed for PC gaming setups, the LS100 integrates with Corsair's 
 
 **Best for:** Corsair ecosystem users who want unified RGB control.
 
-<a href="#" class="btn-amazon">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B07X1QJTQJ?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
 
 ## 7. Daybetter LED Strip — Best Budget
 
@@ -146,7 +146,7 @@ At under $15 for 32.8ft, the Daybetter is the cheapest way to add color to your 
 
 **Best for:** Students or anyone starting their first gaming setup.
 
-<a href="#" class="btn-amazon">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B07SPZ2HGT?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
 
 ## How to Choose the Right LED Strip for Your Gaming Setup
 

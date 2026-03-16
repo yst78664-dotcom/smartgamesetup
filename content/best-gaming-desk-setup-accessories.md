@@ -55,7 +55,7 @@ What makes it one of the **best gaming desk accessories** is the sheer build qua
 - Single monitor only (need two for dual setup)
 - Overkill for lightweight 24-inch monitors
 
-<a href="#" class="btn-amazon">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B00358RIRC?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
 
 ---
 
@@ -80,7 +80,7 @@ As a **gaming desk setup essential**, this stand instantly doubles your usable d
 - Limited tilt range compared to Ergotron
 - Desk clamp requires at least a 3-inch overhang
 
-<a href="#" class="btn-amazon">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B009S750LA?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
 
 ---
 
@@ -106,7 +106,7 @@ What makes this one of the **best gaming desk accessories** for 2026 is future-p
 - Razer Synapse software can be bloated
 - No front-facing USB-A port
 
-<a href="#" class="btn-amazon">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B091BML59Y?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
 
 ---
 
@@ -133,7 +133,7 @@ The RGB edge lighting features 360-degree coverage and integrates with Corsair i
 - White version shows dirt faster
 - iCUE software required for RGB customization
 
-<a href="#" class="btn-amazon">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B08QSNNV5H?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
 
 ---
 
@@ -159,7 +159,7 @@ As one of the most impactful yet affordable **gaming desk accessories**, this ki
 - Visible if your desk has an open underside facing outward
 - May need additional velcro ties for very heavy cables
 
-<a href="#" class="btn-amazon">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B07T394KNP?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
 
 ---
 
@@ -185,7 +185,7 @@ The real party trick is the RGB lighting on the base. Integrated with Corsair iC
 - Requires iCUE for RGB control — another software to install
 - Not height-adjustable
 
-<a href="#" class="btn-amazon">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B074ZQJW9R?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
 
 ---
 
@@ -211,7 +211,7 @@ What earns this a spot among the **best gaming desk accessories** is expandabili
 - Flex arms require some force to adjust
 - Clamp needs a desk edge (no grommet option in base kit)
 
-<a href="#" class="btn-amazon">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B07X49967V?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
 
 ---
 
@@ -238,7 +238,7 @@ Schedule your setup to power on before you get home, or set an auto-off at midni
 - USB ports are low-wattage (no fast charging)
 - Surge protection rating is modest compared to dedicated surge protectors
 
-<a href="#" class="btn-amazon">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B083JKSSR5?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
 
 ---
 

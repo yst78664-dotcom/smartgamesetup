@@ -58,9 +58,9 @@ That's roughly a **3.5x price difference** for a comparable setup. For gamers on
 
 However, price isn't everything. Let's see what that premium actually buys you.
 
-<a href="#" class="btn-amazon">Check Govee Prices on Amazon →</a>
+<a href="https://www.amazon.com/dp/B098PBWZLL?tag=songtao-20" class="btn-amazon">Check Govee Prices on Amazon →</a>
 
-<a href="#" class="btn-amazon">Check Philips Hue Prices on Amazon →</a>
+<a href="https://www.amazon.com/dp/B09BDK76R2?tag=songtao-20" class="btn-amazon">Check Philips Hue Prices on Amazon →</a>
 
 ## Color Quality & Brightness: Hue Has the Edge
 
@@ -239,7 +239,7 @@ Govee is the **best smart lights for gaming** if you:
 2. **Govee Flow Pro Light Bars** — Desk accent with camera sync ($70)
 3. **Govee Glide Hexa Panels** — Wall accent ($100)
 
-<a href="#" class="btn-amazon">Check Govee Gaming Bundle on Amazon →</a>
+<a href="https://www.amazon.com/dp/B08KXPRJ5D?tag=songtao-20" class="btn-amazon">Check Govee Gaming Bundle on Amazon →</a>
 
 ## Who Should Buy Philips Hue?
 
@@ -259,7 +259,7 @@ Philips Hue is the **best smart lights for gaming** if you:
 2. **Hue Play Light Bar (2-pack)** — Desk accent ($130)
 3. **Hue Play HDMI Sync Box** — Console game sync ($300)
 
-<a href="#" class="btn-amazon">Check Philips Hue Gaming Bundle on Amazon →</a>
+<a href="https://www.amazon.com/dp/B07GXB3S7Z?tag=songtao-20" class="btn-amazon">Check Philips Hue Gaming Bundle on Amazon →</a>
 
 ## The Hybrid Approach: Best of Both Worlds
 
