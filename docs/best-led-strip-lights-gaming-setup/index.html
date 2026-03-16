@@ -370,7 +370,7 @@ A: Actually, the opposite — bias lighting behind your monitor reduces eye stra
         const li = document.createElement('li');
         const a = document.createElement('a');
         a.href = '#' + id;
-        a.textContent = h.textContent;
+        a.textContent = h.textContent.replace(/^\d+\.\s*/, '');
         li.appendChild(a);
         tocList.appendChild(li);
       });
