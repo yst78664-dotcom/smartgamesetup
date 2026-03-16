@@ -8,7 +8,7 @@ const DOCS_DIR = path.join(__dirname, 'docs');
 const TEMPLATE = fs.readFileSync(path.join(__dirname, 'templates', 'article.html'), 'utf8');
 
 // Config
-const GA_ID = 'G-XXXXXXXXXX'; // Replace with real GA ID
+const GA_ID = 'G-DY5BY4Q3GX';
 
 function build() {
   fs.mkdirSync(DOCS_DIR, { recursive: true });
