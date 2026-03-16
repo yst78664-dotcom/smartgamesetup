@@ -42,7 +42,7 @@ But with hundreds of options on Amazon, how do you pick the right one? We analyz
 - Music sync: Built-in mic for reactive lighting
 - Game sync: Works with Govee DreamView for screen matching
 
-| ✅ Pros | ❌ Cons |
+| Pros | Cons |
 |---|---|
 | Incredible value for money | Not compatible with Apple HomeKit |
 | Segmented color control (RGBIC) | Can't be extended (fixed length) |
@@ -70,7 +70,7 @@ But with hundreds of options on Amazon, how do you pick the right one? We analyz
 - Requires: Hue Bridge ($50 separately)
 - Sync: Hue Sync Box for real-time game/movie sync
 
-| ✅ Pros | ❌ Cons |
+| Pros | Cons |
 |---|---|
 | Best-in-class color accuracy and brightness | Expensive ($170 + $50 for Bridge + $230 for Sync Box) |
 | True multi-zone gradient (not segmented like Govee) | Requires Hue Bridge hub |
@@ -97,7 +97,7 @@ But with hundreds of options on Amazon, how do you pick the right one? We analyz
 - Smart: Govee app, Alexa, Google
 - DIY shapes: Bend and mount in any pattern
 
-| ✅ Pros | ❌ Cons |
+| Pros | Cons |
 |---|---|
 | No visible LED dots — smooth, diffused glow | Not as bright as strip lights |
 | Flexible enough for custom shapes and wall art | Can't be cut to custom lengths |
