@@ -10,6 +10,26 @@
   <meta property="og:title" content="{{title}}">
   <meta property="og:description" content="{{description}}">
   <meta property="og:type" content="article">
+  <meta property="og:url" content="https://smartgamesetup.com/{{slug}}/">
+  <meta property="og:site_name" content="SmartGameSetup">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{title}}">
+  <meta name="twitter:description" content="{{description}}">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{title}}",
+    "description": "{{description}}",
+    "datePublished": "{{date}}",
+    "url": "https://smartgamesetup.com/{{slug}}/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "SmartGameSetup",
+      "url": "https://smartgamesetup.com"
+    }
+  }
+  </script>
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ga_id}}"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','{{ga_id}}');</script>
