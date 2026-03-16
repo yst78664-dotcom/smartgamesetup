@@ -35,9 +35,9 @@
     .toc h4::after { content: ' ▾'; font-size: 14px; color: #64748b; }
     .toc.collapsed h4::after { content: ' ▸'; }
     .toc.collapsed ol { display: none; }
-    .toc ol { list-style: none; counter-reset: toc; padding: 0; margin: 0; }
-    .toc li { counter-increment: toc; margin: 6px 0; }
-    .toc li::before { content: counter(toc) ". "; color: #7c3aed; font-weight: 600; }
+    .toc ul { list-style: none; padding: 0; margin: 0; }
+    .toc li { margin: 6px 0; padding-left: 16px; position: relative; }
+    .toc li::before { content: "›"; color: #7c3aed; font-weight: 700; position: absolute; left: 0; }
     .toc a { color: #94a3b8; text-decoration: none; font-size: 15px; }
     .toc a:hover { color: #22d3ee; }
 
@@ -123,7 +123,7 @@
     <!-- Table of Contents -->
     <div class="toc" id="toc">
       <h4 onclick="this.parentElement.classList.toggle('collapsed')">Table of Contents</h4>
-      <ol id="toc-list"></ol>
+      <ul id="toc-list"></ul>
     </div>
 
     <article id="article-content">
