@@ -104,7 +104,7 @@ Any gamer who uses Alexa and wants the most capable smart speaker for voice-cont
 
 ## 2. Apple HomePod mini — Best for Apple Ecosystem Gamers
 
-![Apple HomePod mini](https://upload.wikimedia.org/wikipedia/commons/5/55/Homepod_Mini_-_1.jpg)
+![Apple HomePod mini](/images/homepod-mini.jpg)
 
 If your phone is an iPhone, your watch is an Apple Watch, and your laptop is a MacBook, the HomePod mini is the natural choice. Siri integration with iOS is seamless, AirPlay 2 makes it the easiest speaker to beam audio to, and its Thread border router capability future-proofs your smart home.
 
@@ -193,7 +193,7 @@ Budget gamers or those who already have good speakers and just want a voice cont
 
 ## 4. Google Nest Audio — Best Sound Quality
 
-![Google Nest Audio](https://upload.wikimedia.org/wikipedia/commons/e/ef/Google_Nest_Audio_in_Charcoal.jpg)
+![Google Nest Audio](/images/nest-audio.jpg)
 
 If sound quality is your top priority, the Google Nest Audio is the best-sounding smart speaker in this price range — period. Google's custom-designed 75mm woofer and 19mm tweeter produce rich, room-filling sound with actual bass response and clear highs.
 
