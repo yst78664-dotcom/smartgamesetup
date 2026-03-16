@@ -10,6 +10,9 @@
   <meta property="og:title" content="{{title}}">
   <meta property="og:description" content="{{description}}">
   <meta property="og:type" content="article">
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ga_id}}"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','{{ga_id}}');</script>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #1a1a2e; background: #0f0f1a; line-height: 1.7; }
@@ -22,7 +25,22 @@
     .hero { background: linear-gradient(135deg, #1a1a2e, #16213e); padding: 60px 20px 40px; text-align: center; }
     .hero h1 { color: #f1f5f9; font-size: 38px; max-width: 800px; margin: 0 auto 15px; }
     .hero .meta { color: #64748b; font-size: 14px; }
+    .hero .rating { color: #fbbf24; font-size: 18px; margin-top: 8px; }
     .content-wrap { max-width: 800px; margin: 0 auto; padding: 40px 20px 80px; }
+
+    /* Table of Contents */
+    .toc { background: #1a1a2e; border: 1px solid #334155; border-radius: 12px; padding: 25px 30px; margin-bottom: 30px; }
+    .toc h4 { color: #7c3aed; font-size: 18px; margin-bottom: 12px; cursor: pointer; }
+    .toc h4::before { content: '📑 '; }
+    .toc h4::after { content: ' ▾'; font-size: 14px; color: #64748b; }
+    .toc.collapsed h4::after { content: ' ▸'; }
+    .toc.collapsed ol { display: none; }
+    .toc ol { list-style: none; counter-reset: toc; padding: 0; margin: 0; }
+    .toc li { counter-increment: toc; margin: 6px 0; }
+    .toc li::before { content: counter(toc) ". "; color: #7c3aed; font-weight: 600; }
+    .toc a { color: #94a3b8; text-decoration: none; font-size: 15px; }
+    .toc a:hover { color: #22d3ee; }
+
     article { background: #ffffff; border-radius: 12px; padding: 40px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); }
     article h2 { color: #1a1a2e; font-size: 28px; margin: 35px 0 15px; padding-top: 20px; border-top: 1px solid #e2e8f0; }
     article h2:first-child { border-top: none; padding-top: 0; }
@@ -32,15 +50,43 @@
     article li { margin: 8px 0; font-size: 17px; }
     article a { color: #7c3aed; text-decoration: underline; }
     article strong { color: #1e293b; }
-    .product-box { background: linear-gradient(135deg, #f8fafc, #f1f5f9); border: 2px solid #7c3aed; border-radius: 12px; padding: 25px; margin: 25px 0; }
+    article img { max-width: 100%; height: auto; border-radius: 8px; }
+    article table { width: 100%; border-collapse: collapse; margin: 15px 0; }
+    article th, article td { padding: 10px 12px; border: 1px solid #e2e8f0; font-size: 15px; }
+    article th { background: #f8fafc; font-weight: 700; }
+
+    /* Product Box */
+    .product-box { background: linear-gradient(135deg, #f8fafc, #f1f5f9); border: 2px solid #7c3aed; border-radius: 12px; padding: 25px; margin: 25px 0; overflow: hidden; }
     .product-box h3 { color: #7c3aed; margin-top: 0; }
+    .product-box img { max-width: 280px; float: right; margin: 0 0 15px 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
     .btn-amazon { display: inline-block; background: #ff9900; color: #111; padding: 12px 30px; border-radius: 8px; text-decoration: none; font-weight: 700; margin-top: 10px; }
     .btn-amazon:hover { background: #e8890a; }
+
+    /* Star Rating */
+    .stars { color: #fbbf24; font-size: 20px; letter-spacing: 2px; }
+    .stars-label { color: #64748b; font-size: 14px; margin-left: 8px; }
+    .rating-box { display: flex; align-items: center; margin: 8px 0 15px; }
+
+    /* Related Articles */
+    .related { margin-top: 50px; padding-top: 30px; border-top: 2px solid #e2e8f0; }
+    .related h3 { color: #1a1a2e; font-size: 24px; margin-bottom: 20px; }
+    .related-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 15px; }
+    .related-card { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 20px; text-decoration: none; transition: all 0.3s; }
+    .related-card:hover { border-color: #7c3aed; transform: translateY(-2px); box-shadow: 0 4px 12px rgba(124,58,237,0.15); }
+    .related-card h4 { color: #1a1a2e; font-size: 16px; margin-bottom: 8px; }
+    .related-card p { color: #64748b; font-size: 13px; margin: 0; }
+
     .footer { background: #1a1a2e; color: #64748b; text-align: center; padding: 40px 20px; font-size: 14px; border-top: 1px solid #334155; }
     .affiliate-disclosure { background: #fffbeb; border: 1px solid #fbbf24; border-radius: 8px; padding: 15px; margin: 20px 0; font-size: 14px; color: #92400e; }
-    @media (max-width: 768px) { .hero h1 { font-size: 28px; } article { padding: 25px; } }
+
+    @media (max-width: 768px) {
+      .hero h1 { font-size: 28px; }
+      article { padding: 25px; }
+      .product-box img { float: none; max-width: 100%; margin: 0 0 15px 0; }
+      .related-grid { grid-template-columns: 1fr; }
+    }
   </style>
-  <!-- Schema.org -->
+  <!-- Schema.org with Rating -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -49,7 +95,8 @@
     "description": "{{description}}",
     "author": {"@type": "Organization", "name": "SmartGameSetup"},
     "datePublished": "{{date}}",
-    "publisher": {"@type": "Organization", "name": "SmartGameSetup"}
+    "dateModified": "{{date}}",
+    "publisher": {"@type": "Organization", "name": "SmartGameSetup", "logo": {"@type": "ImageObject", "url": "https://smartgamesetup.com/logo.png"}}
   }
   </script>
 </head>
@@ -58,10 +105,10 @@
     <div class="header-inner">
       <a href="/" class="logo">Smart<span>Game</span>Setup</a>
       <nav>
-        <a href="/guides/">Guides</a>
-        <a href="/reviews/">Reviews</a>
-        <a href="/comparisons/">Comparisons</a>
-        <a href="/about/">About</a>
+        <a href="/">Home</a>
+        <a href="/best-led-strip-lights-gaming-setup/">Lighting</a>
+        <a href="/best-gaming-desk-setup-accessories/">Desk Setup</a>
+        <a href="/govee-vs-philips-hue-gaming-lights/">Comparisons</a>
       </nav>
     </div>
   </header>
@@ -70,16 +117,50 @@
     <p class="meta">Updated {{date}} · {{readtime}} min read</p>
   </div>
   <div class="content-wrap">
-    <article>
+    <!-- Table of Contents -->
+    <div class="toc" id="toc">
+      <h4 onclick="this.parentElement.classList.toggle('collapsed')">Table of Contents</h4>
+      <ol id="toc-list"></ol>
+    </div>
+
+    <article id="article-content">
       <div class="affiliate-disclosure">
         <strong>Affiliate Disclosure:</strong> This post contains affiliate links. If you purchase through these links, we may earn a commission at no extra cost to you.
       </div>
       {{content}}
+
+      <!-- Related Articles -->
+      <div class="related">
+        <h3>📚 You Might Also Like</h3>
+        <div class="related-grid">
+          {{related}}
+        </div>
+      </div>
     </article>
   </div>
   <footer class="footer">
     <p>&copy; 2026 SmartGameSetup.com · All rights reserved</p>
     <p style="margin-top:8px"><a href="/privacy/" style="color:#64748b">Privacy Policy</a> · <a href="/about/" style="color:#64748b">About Us</a></p>
   </footer>
+
+  <!-- Auto-generate TOC from h2 headings -->
+  <script>
+    (function() {
+      const article = document.getElementById('article-content');
+      const tocList = document.getElementById('toc-list');
+      const headings = article.querySelectorAll('h2');
+      if (headings.length < 2) { document.getElementById('toc').style.display = 'none'; return; }
+      headings.forEach(function(h, i) {
+        const id = 'section-' + i;
+        h.id = id;
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = '#' + id;
+        a.textContent = h.textContent;
+        li.appendChild(a);
+        tocList.appendChild(li);
+      });
+    })();
+  </script>
 </body>
 </html>
