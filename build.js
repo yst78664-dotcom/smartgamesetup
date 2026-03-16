@@ -209,7 +209,7 @@ function buildCategoryPage(articles, slug, title, desc, categories) {
 <body>
   <header class="header"><div class="header-inner">
     <a href="/" class="logo">Smart<span>Game</span>Setup</a>
-    <nav><a href="/">Home</a><a href="/reviews/">Reviews</a><a href="/comparisons/">Comparisons</a><a href="/guides/">Guides</a><a href="/about/">About</a></nav>
+    <nav><a href="/">Home</a><a href="/about/">About</a><a href="/news/">News</a></nav>
   </div></header>
   <div class="hero">
     <h1><em>${title}</em></h1>
@@ -271,7 +271,7 @@ function buildAboutPage() {
 <body>
   <header class="header"><div class="header-inner">
     <a href="/" class="logo">Smart<span>Game</span>Setup</a>
-    <nav><a href="/">Home</a><a href="/reviews/">Reviews</a><a href="/comparisons/">Comparisons</a><a href="/guides/">Guides</a><a href="/about/">About</a></nav>
+    <nav><a href="/">Home</a><a href="/about/">About</a><a href="/news/">News</a></nav>
   </div></header>
   <div class="content">
     <h1>About <em>SmartGameSetup</em></h1>
@@ -366,7 +366,7 @@ function buildPrivacyPage() {
 <body>
   <header class="header"><div class="header-inner">
     <a href="/" class="logo">Smart<span>Game</span>Setup</a>
-    <nav><a href="/">Home</a><a href="/reviews/">Reviews</a><a href="/about/">About</a></nav>
+    <nav><a href="/">Home</a><a href="/about/">About</a><a href="/news/">News</a></nav>
   </div></header>
   <div class="content">
     <h1>Privacy Policy</h1>
