@@ -31,7 +31,7 @@ keywords:
 **Features:** Screen mirroring, music sync, app control  
 **Compatibility:** Windows, Mac, iOS, Android
 
-<a href="https://www.amazon.com/dp/B0BHQHH4QD?tag=songtao-20" class="btn-amazon" target="_blank" rel="nofollow">Check Current Price on Amazon</a>
+<a href="https://www.amazon.com/dp/B09S5RX435?tag=songtao-20" class="btn-amazon" target="_blank" rel="nofollow">Check Current Price on Amazon</a>
 </div>
 
 ## What Makes the DreamView G1 Different?
@@ -195,7 +195,7 @@ The **Govee DreamView G1** delivers exactly what it promises: **decent ambient g
 
 **Our recommendation:** Buy it if you're new to gaming lighting and want to test the waters. You can always upgrade later, and at $49, it's not a huge commitment.
 
-<a href="https://www.amazon.com/dp/B0BHQHH4QD?tag=songtao-20" class="btn-amazon" target="_blank" rel="nofollow">Get the Govee DreamView G1 on Amazon</a>
+<a href="https://www.amazon.com/dp/B09S5RX435?tag=songtao-20" class="btn-amazon" target="_blank" rel="nofollow">Get the Govee DreamView G1 on Amazon</a>
 
 ---
 
