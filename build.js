@@ -9,6 +9,12 @@ const TEMPLATE = fs.readFileSync(path.join(__dirname, 'templates', 'article.html
 
 // Config
 const GA_ID = 'G-DY5BY4Q3GX';
+const FAVICON = '  <link rel="icon" type="image/svg+xml" href="/favicon.svg">\n';
+
+// Helper: inject favicon into any HTML string
+function injectFavicon(html) {
+  return html.replace('</head>', FAVICON + '</head>');
+}
 
 function build() {
   fs.mkdirSync(DOCS_DIR, { recursive: true });
@@ -56,13 +62,13 @@ function build() {
     
     const outDir = path.join(DOCS_DIR, art.slug);
     fs.mkdirSync(outDir, { recursive: true });
-    fs.writeFileSync(path.join(outDir, 'index.html'), page);
+    fs.writeFileSync(path.join(outDir, 'index.html'), injectFavicon(page));
     console.log(`  ✅ /${art.slug}/ (${art.wordCount} words, ${art.readtime} min)`);
   }
   
   // Generate index
   const indexHtml = generateIndex(articles);
-  fs.writeFileSync(path.join(DOCS_DIR, 'index.html'), indexHtml);
+  fs.writeFileSync(path.join(DOCS_DIR, 'index.html'), injectFavicon(indexHtml));
   console.log(`  ✅ /index.html (${articles.length} articles)`);
   
   // Sitemap
@@ -287,7 +293,7 @@ function buildCategoryPage(articles, slug, title, desc, categories) {
 
   const outDir = path.join(DOCS_DIR, slug);
   fs.mkdirSync(outDir, { recursive: true });
-  fs.writeFileSync(path.join(outDir, 'index.html'), html);
+  fs.writeFileSync(path.join(outDir, 'index.html'), injectFavicon(html));
   console.log(`  ✅ /${slug}/ (${display.length} articles)`);
 }
 
@@ -401,7 +407,7 @@ function buildAboutPage() {
 
   const outDir = path.join(DOCS_DIR, 'about');
   fs.mkdirSync(outDir, { recursive: true });
-  fs.writeFileSync(path.join(outDir, 'index.html'), html);
+  fs.writeFileSync(path.join(outDir, 'index.html'), injectFavicon(html));
   console.log('  ✅ /about/');
 }
 
@@ -465,7 +471,7 @@ function buildPrivacyPage() {
 
   const outDir = path.join(DOCS_DIR, 'privacy');
   fs.mkdirSync(outDir, { recursive: true });
-  fs.writeFileSync(path.join(outDir, 'index.html'), html);
+  fs.writeFileSync(path.join(outDir, 'index.html'), injectFavicon(html));
   console.log('  ✅ /privacy/');
 }
 
@@ -536,7 +542,7 @@ function buildTopicPage(articles, topicKey, topic) {
 
   const outDir = path.join(DOCS_DIR, 'topics', topicKey);
   fs.mkdirSync(outDir, { recursive: true });
-  fs.writeFileSync(path.join(outDir, 'index.html'), html);
+  fs.writeFileSync(path.join(outDir, 'index.html'), injectFavicon(html));
   console.log(`  ✅ /topics/${topicKey}/ (${filtered.length} articles)`);
 }
 
@@ -655,7 +661,7 @@ function buildNewsPage() {
 
   const outDir = path.join(DOCS_DIR, 'news');
   fs.mkdirSync(outDir, { recursive: true });
-  fs.writeFileSync(path.join(outDir, 'index.html'), html);
+  fs.writeFileSync(path.join(outDir, 'index.html'), injectFavicon(html));
   console.log('  ✅ /news/');
 }
 
