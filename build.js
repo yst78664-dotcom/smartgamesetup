@@ -171,9 +171,9 @@ function generateIndex(articles) {
     body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f0f1a; color: #f1f5f9; }
     .header { background: linear-gradient(135deg, #1a1a2e, #16213e); padding: 20px 0; border-bottom: 2px solid #7c3aed; }
     .header-inner { max-width:1100px; margin:0 auto; padding:0 20px; display:flex; justify-content:space-between; align-items:center; }
-    .logo { color:#7c3aed; font-size:24px; font-weight:800; text-decoration:none; }
+    .logo { color:#7c3aed; font-size:42px; font-weight:800; text-decoration:none; }
     .logo span { color:#22d3ee; }
-    nav a { color:#94a3b8; text-decoration:none; margin-left:30px; font-size:15px; }
+    nav a { color:#94a3b8; text-decoration:none; margin-left:30px; font-size:22px; font-weight:600; }
     nav a:hover { color:#7c3aed; }
     .hero { text-align:center; padding:80px 20px 60px; background:linear-gradient(180deg,#1a1a2e,#0f0f1a); }
     .hero h1 { font-size:48px; margin-bottom:15px; }
@@ -256,9 +256,9 @@ function buildCategoryPage(articles, slug, title, desc, categories) {
     body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f0f1a; color: #f1f5f9; }
     .header { background: linear-gradient(135deg, #1a1a2e, #16213e); padding: 20px 0; border-bottom: 2px solid #7c3aed; }
     .header-inner { max-width:1100px; margin:0 auto; padding:0 20px; display:flex; justify-content:space-between; align-items:center; }
-    .logo { color:#7c3aed; font-size:24px; font-weight:800; text-decoration:none; }
+    .logo { color:#7c3aed; font-size:42px; font-weight:800; text-decoration:none; }
     .logo span { color:#22d3ee; }
-    nav a { color:#94a3b8; text-decoration:none; margin-left:30px; font-size:15px; }
+    nav a { color:#94a3b8; text-decoration:none; margin-left:30px; font-size:22px; font-weight:600; }
     nav a:hover { color:#7c3aed; }
     .hero { text-align:center; padding:60px 20px 40px; background:linear-gradient(180deg,#1a1a2e,#0f0f1a); }
     .hero h1 { font-size:42px; margin-bottom:15px; color:#f1f5f9; }
@@ -312,9 +312,9 @@ function buildAboutPage() {
     body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f0f1a; color: #f1f5f9; line-height:1.7; }
     .header { background: linear-gradient(135deg, #1a1a2e, #16213e); padding: 20px 0; border-bottom: 2px solid #7c3aed; }
     .header-inner { max-width:1100px; margin:0 auto; padding:0 20px; display:flex; justify-content:space-between; align-items:center; }
-    .logo { color:#7c3aed; font-size:24px; font-weight:800; text-decoration:none; }
+    .logo { color:#7c3aed; font-size:42px; font-weight:800; text-decoration:none; }
     .logo span { color:#22d3ee; }
-    nav a { color:#94a3b8; text-decoration:none; margin-left:30px; font-size:15px; }
+    nav a { color:#94a3b8; text-decoration:none; margin-left:30px; font-size:22px; font-weight:600; }
     nav a:hover { color:#7c3aed; }
     .content { max-width:800px; margin:0 auto; padding:60px 20px 80px; }
     .content h1 { font-size:42px; margin-bottom:30px; color:#f1f5f9; }
@@ -423,9 +423,9 @@ function buildPrivacyPage() {
     body { font-family: -apple-system, sans-serif; background:#0f0f1a; color:#94a3b8; line-height:1.7; }
     .header { background:#1a1a2e; padding:20px 0; border-bottom:2px solid #7c3aed; }
     .header-inner { max-width:1100px; margin:0 auto; padding:0 20px; display:flex; justify-content:space-between; align-items:center; }
-    .logo { color:#7c3aed; font-size:24px; font-weight:800; text-decoration:none; }
+    .logo { color:#7c3aed; font-size:42px; font-weight:800; text-decoration:none; }
     .logo span { color:#22d3ee; }
-    nav a { color:#94a3b8; text-decoration:none; margin-left:30px; font-size:15px; }
+    nav a { color:#94a3b8; text-decoration:none; margin-left:30px; font-size:22px; font-weight:600; }
     .content { max-width:800px; margin:0 auto; padding:60px 20px 80px; }
     .content h1 { color:#f1f5f9; font-size:36px; margin-bottom:30px; }
     .content h2 { color:#f1f5f9; font-size:22px; margin:30px 0 10px; }
@@ -503,9 +503,9 @@ function buildTopicPage(articles, topicKey, topic) {
     body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f0f1a; color: #f1f5f9; }
     .header { background: linear-gradient(135deg, #1a1a2e, #16213e); padding: 20px 0; border-bottom: 2px solid #7c3aed; }
     .header-inner { max-width:1100px; margin:0 auto; padding:0 20px; display:flex; justify-content:space-between; align-items:center; }
-    .logo { color:#7c3aed; font-size:24px; font-weight:800; text-decoration:none; }
+    .logo { color:#7c3aed; font-size:42px; font-weight:800; text-decoration:none; }
     .logo span { color:#22d3ee; }
-    nav a { color:#94a3b8; text-decoration:none; margin-left:30px; font-size:15px; }
+    nav a { color:#94a3b8; text-decoration:none; margin-left:30px; font-size:22px; font-weight:600; }
     nav a:hover { color:#7c3aed; }
     .hero { text-align:center; padding:60px 20px 40px; background:linear-gradient(180deg,#1a1a2e,#0f0f1a); }
     .hero h1 { font-size:42px; margin-bottom:15px; }
@@ -619,9 +619,9 @@ function buildNewsPage() {
     body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f0f1a; color: #f1f5f9; line-height:1.7; }
     .header { background: linear-gradient(135deg, #1a1a2e, #16213e); padding: 20px 0; border-bottom: 2px solid #7c3aed; }
     .header-inner { max-width:1100px; margin:0 auto; padding:0 20px; display:flex; justify-content:space-between; align-items:center; }
-    .logo { color:#7c3aed; font-size:24px; font-weight:800; text-decoration:none; }
+    .logo { color:#7c3aed; font-size:42px; font-weight:800; text-decoration:none; }
     .logo span { color:#22d3ee; }
-    nav a { color:#94a3b8; text-decoration:none; margin-left:30px; font-size:15px; }
+    nav a { color:#94a3b8; text-decoration:none; margin-left:30px; font-size:22px; font-weight:600; }
     nav a:hover { color:#7c3aed; }
     .hero { text-align:center; padding:60px 20px 40px; background:linear-gradient(180deg,#1a1a2e,#0f0f1a); }
     .hero h1 { font-size:42px; margin-bottom:15px; }
