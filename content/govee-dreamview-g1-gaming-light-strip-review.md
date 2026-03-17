@@ -69,7 +69,7 @@ The DreamView G1 comes with:
 ## Screen Mirroring Performance: Good But Not Great
 
 <div class="product-box">
-<img src="https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=400" alt="Gaming setup with ambient lighting behind monitor" style="max-width:280px;float:left;margin:0 20px 15px 0;border-radius:8px;">
+<img src="/images/govee-dreamview-g1-product.jpg" alt="Govee DreamView G1 screen mirroring in action" style="max-width:280px;float:left;margin:0 20px 15px 0;border-radius:8px;">
 
 **The main feature:** Screen mirroring analyzes your monitor's colors and reflects them on the strip in real-time.
 

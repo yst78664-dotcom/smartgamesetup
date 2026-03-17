@@ -13,7 +13,7 @@ keywords:
   - 60% keyboard comparison gaming
 ---
 
-<img src="https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Compact gaming keyboards on desk setup comparison" style="width:100%;border-radius:12px;margin-bottom:20px;">
+<img src="/images/razer-huntsman-mini.jpg" alt="Razer Huntsman Mini 60% gaming keyboard" style="width:100%;border-radius:12px;margin-bottom:20px;">
 
 ## The Quick Verdict: Razer Huntsman Mini vs Logitech G PRO X
 
