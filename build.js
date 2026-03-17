@@ -183,14 +183,22 @@ function generateIndex(articles) {
     .section-title { max-width:1100px; margin:0 auto; padding:40px 20px 10px; font-size:28px; font-weight:700; }
     .section-title em { color:#7c3aed; font-style:normal; }
     .section-subtitle { max-width:1100px; margin:0 auto; padding:0 20px; color:#64748b; font-size:15px; }
-    .gallery-grid { max-width:1100px; margin:0 auto; padding:10px 20px 30px; display:grid; grid-template-columns:repeat(3, 1fr); grid-auto-rows:220px; gap:12px; }
-    .gallery-item { position:relative; overflow:hidden; border-radius:12px; cursor:pointer; }
-    .gallery-item img { width:100%; height:100%; object-fit:cover; transition:transform 0.4s ease; }
-    .gallery-item:hover img { transform:scale(1.08); }
-    .gallery-wide { grid-column:span 2; }
-    .gallery-overlay { position:absolute; bottom:0; left:0; right:0; padding:12px 16px; background:linear-gradient(transparent, rgba(0,0,0,0.8)); color:#fff; font-size:14px; font-weight:600; opacity:0; transition:opacity 0.3s; }
-    .gallery-item:hover .gallery-overlay { opacity:1; }
-    @media (max-width:768px) { .gallery-grid { grid-template-columns:1fr 1fr; grid-auto-rows:160px; } .gallery-wide { grid-column:span 2; } }
+    .gallery-wrap { max-width:1100px; margin:0 auto; padding:10px 20px 30px; position:relative; }
+    .gallery-carousel { overflow:hidden; border-radius:16px; position:relative; }
+    .gallery-track { display:flex; transition:transform 0.5s ease; }
+    .gallery-slide { min-width:100%; position:relative; }
+    .gallery-slide img { width:100%; height:480px; object-fit:cover; display:block; }
+    .gallery-caption { position:absolute; bottom:0; left:0; right:0; padding:20px 30px; background:linear-gradient(transparent, rgba(0,0,0,0.85)); color:#fff; }
+    .gallery-caption h3 { font-size:22px; margin-bottom:4px; }
+    .gallery-caption p { font-size:14px; color:rgba(255,255,255,0.75); }
+    .gallery-btn { position:absolute; top:50%; transform:translateY(-50%); background:rgba(0,0,0,0.6); color:#fff; border:none; width:48px; height:48px; border-radius:50%; font-size:22px; cursor:pointer; z-index:2; transition:background 0.3s; }
+    .gallery-btn:hover { background:rgba(124,58,237,0.9); }
+    .gallery-prev { left:16px; }
+    .gallery-next { right:16px; }
+    .gallery-dots { text-align:center; padding:12px 0; }
+    .gallery-dot { display:inline-block; width:10px; height:10px; border-radius:50%; background:#334155; margin:0 5px; cursor:pointer; transition:background 0.3s; }
+    .gallery-dot.active { background:#7c3aed; }
+    @media (max-width:768px) { .gallery-slide img { height:280px; } .gallery-btn { width:36px; height:36px; font-size:16px; } }
     .topics-grid { max-width:1100px; margin:0 auto; padding:30px 20px; display:grid; grid-template-columns:repeat(auto-fill,minmax(160px,1fr)); gap:15px; }
     .topic-card { background:#1a1a2e; border:1px solid #334155; border-radius:10px; padding:24px; text-decoration:none; text-align:center; transition:all 0.3s; }
     .topic-card:hover { border-color:#7c3aed; transform:translateY(-2px); box-shadow:0 4px 15px rgba(124,58,237,0.2); }
@@ -221,14 +229,33 @@ function generateIndex(articles) {
   </div>
   <h2 class="section-title">🎮 Smart Gaming Setup <em>Inspiration</em></h2>
   <p class="section-subtitle">Get inspired by these amazing gaming room setups</p>
-  <div class="gallery-grid">
-    <div class="gallery-item gallery-wide"><img src="/images/gallery-setup-1.jpg" alt="RGB gaming desk setup with dual monitors" loading="lazy"><div class="gallery-overlay">RGB Desk Setup</div></div>
-    <div class="gallery-item"><img src="/images/gallery-setup-2.jpg" alt="Gaming PC with RGB case lighting" loading="lazy"><div class="gallery-overlay">RGB PC Build</div></div>
-    <div class="gallery-item"><img src="/images/gallery-setup-3.jpg" alt="Modern gaming desk with LED lighting" loading="lazy"><div class="gallery-overlay">LED Ambient Lighting</div></div>
-    <div class="gallery-item"><img src="/images/gallery-setup-4.jpg" alt="Gaming setup with smart RGB lights" loading="lazy"><div class="gallery-overlay">Smart RGB Setup</div></div>
-    <div class="gallery-item gallery-wide"><img src="/images/gallery-setup-5.jpg" alt="Minimalist gaming room setup" loading="lazy"><div class="gallery-overlay">Clean Gaming Room</div></div>
-    <div class="gallery-item"><img src="/images/gallery-setup-6.jpg" alt="Gaming setup with neon lights" loading="lazy"><div class="gallery-overlay">Neon Gaming Vibes</div></div>
+  <div class="gallery-wrap">
+    <div class="gallery-carousel">
+      <div class="gallery-track" id="galleryTrack">
+        <div class="gallery-slide"><img src="/images/gallery-setup-1.jpg" alt="Colorful esports gaming setup" loading="lazy"><div class="gallery-caption"><h3>🏆 Tournament-Ready Setup</h3><p>Vibrant multi-monitor esports station with full RGB lighting</p></div></div>
+        <div class="gallery-slide"><img src="/images/gallery-setup-2.jpg" alt="Dark moody gaming room" loading="lazy"><div class="gallery-caption"><h3>🌙 Dark & Moody</h3><p>Minimalist dark theme with subtle ambient backlighting</p></div></div>
+        <div class="gallery-slide"><img src="/images/gallery-setup-3.jpg" alt="Warm tone gaming setup" loading="lazy"><div class="gallery-caption"><h3>🔥 Warm & Cozy</h3><p>Warm-toned setup perfect for long gaming sessions</p></div></div>
+        <div class="gallery-slide"><img src="/images/gallery-setup-4.jpg" alt="Bright clean gaming desk" loading="lazy"><div class="gallery-caption"><h3>☀️ Clean & Bright</h3><p>Daylight-friendly setup with clean cable management</p></div></div>
+        <div class="gallery-slide"><img src="/images/gallery-setup-5.jpg" alt="Purple neon gaming room" loading="lazy"><div class="gallery-caption"><h3>💜 Neon Purple Vibes</h3><p>Deep purple ambient lighting for the ultimate gaming atmosphere</p></div></div>
+        <div class="gallery-slide"><img src="/images/gallery-setup-6.jpg" alt="Minimalist white gaming setup" loading="lazy"><div class="gallery-caption"><h3>⚪ Minimalist White</h3><p>Clean white aesthetic — proof that gaming setups can be elegant</p></div></div>
+        <div class="gallery-slide"><img src="/images/gallery-setup-7.jpg" alt="Blue ambient gaming setup" loading="lazy"><div class="gallery-caption"><h3>💙 Cool Blue Ambient</h3><p>Calm blue tones for focused, immersive gameplay</p></div></div>
+        <div class="gallery-slide"><img src="/images/gallery-setup-8.jpg" alt="Red warm gaming setup" loading="lazy"><div class="gallery-caption"><h3>❤️ Red & Bold</h3><p>High-energy red lighting for competitive gaming vibes</p></div></div>
+      </div>
+      <button class="gallery-btn gallery-prev" onclick="slideGallery(-1)">❮</button>
+      <button class="gallery-btn gallery-next" onclick="slideGallery(1)">❯</button>
+    </div>
+    <div class="gallery-dots" id="galleryDots"></div>
   </div>
+  <script>
+    let galleryIdx = 0;
+    const track = document.getElementById('galleryTrack');
+    const total = track.children.length;
+    const dotsEl = document.getElementById('galleryDots');
+    for(let i=0;i<total;i++){const d=document.createElement('span');d.className='gallery-dot'+(i===0?' active':'');d.onclick=()=>{galleryIdx=i;updateGallery()};dotsEl.appendChild(d);}
+    function slideGallery(dir){galleryIdx=(galleryIdx+dir+total)%total;updateGallery();}
+    function updateGallery(){track.style.transform='translateX(-'+galleryIdx*100+'%)';document.querySelectorAll('.gallery-dot').forEach((d,i)=>d.className='gallery-dot'+(i===galleryIdx?' active':''));}
+    setInterval(()=>slideGallery(1),5000);
+  </script>
   <h2 class="section-title">📂 Browse by <em>Category</em></h2>
   <div class="topics-grid">${topicCards}</div>
   <h2 class="section-title">🆕 Latest — <em>${monthLabel}</em></h2>
