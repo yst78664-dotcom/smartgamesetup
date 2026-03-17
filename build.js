@@ -203,8 +203,8 @@ function generateIndex(articles) {
     .topics-grid { max-width:1100px; margin:0 auto; padding:30px 20px; display:grid; grid-template-columns:repeat(auto-fill,minmax(160px,1fr)); gap:15px; }
     .topic-card { background:linear-gradient(135deg, #1a1a2e 0%, #1e293b 100%); border:2px solid #334155; border-radius:16px; padding:28px 24px; text-decoration:none; text-align:center; transition:all 0.3s; }
     .topic-card:hover { border-color:#7c3aed; transform:translateY(-4px); box-shadow:0 8px 25px rgba(124,58,237,0.2); }
-    .topic-icon { font-size:48px; display:block; margin-bottom:12px; }
-    .topic-card h3 { color:#f1f5f9; font-size:22px; margin-bottom:6px; font-weight:800; }
+    .topic-icon { font-size:40px; display:block; margin-bottom:10px; }
+    .topic-card h3 { color:#f1f5f9; font-size:17px; margin-bottom:6px; font-weight:800; word-break:break-word; }
     .topic-card p { color:#64748b; font-size:14px; margin:0; } .topic-arrow { display:block; margin-top:12px; color:#7c3aed; font-size:14px; font-weight:700; opacity:0.5; transition:opacity 0.3s; } .topic-card:hover .topic-arrow { opacity:1; }
     .grid { max-width:1100px; margin:0 auto; padding:20px 20px 40px; display:grid; grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); gap:25px; }
     .card { background:#1a1a2e; border:1px solid #334155; border-radius:12px; padding:30px; text-decoration:none; transition:all 0.3s; position:relative; overflow:hidden; }
