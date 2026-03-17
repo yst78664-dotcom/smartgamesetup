@@ -13,7 +13,7 @@ keywords:
   - govee dreamview g1 vs regular govee
 ---
 
-<img src="https://m.media-amazon.com/images/I/71XQqzl0PdL._AC_SL1500_.jpg" alt="Govee DreamView G1 Gaming Light Strip behind monitor setup" style="width:100%;border-radius:12px;margin-bottom:20px;">
+<img src="/images/govee-dreamview-g1-hero.jpg" alt="Govee DreamView G1 Gaming Light Strip behind monitor setup" style="width:100%;border-radius:12px;margin-bottom:20px;">
 
 ## Govee DreamView G1 Review: The TL;DR
 
@@ -22,7 +22,7 @@ keywords:
 **Our rating:** ⭐⭐⭐⭐☆ (4/5 stars)
 
 <div class="product-box">
-<img src="https://m.media-amazon.com/images/I/61g1KVKXTFL._AC_SL1500_.jpg" alt="Govee DreamView G1 product box and contents" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
+<img src="/images/govee-dreamview-g1-product.jpg" alt="Govee DreamView G1 product box and contents" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>🎮 Govee DreamView G1 Gaming Light Strip</h3>
 
 **Price:** $49.99  

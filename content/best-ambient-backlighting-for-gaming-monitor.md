@@ -36,7 +36,7 @@ But with dozens of "gaming backlight" products on Amazon, which ones actually de
 ## 1. Govee Gaming Light for Monitor G1 — Best Overall
 
 <div class="product-box">
-<img src="https://m.media-amazon.com/images/I/71QqzZoWL5L._AC_SL1500_.jpg" alt="Govee Gaming Light G1 monitor backlight" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
+<img src="/images/govee-gaming-light-g1.jpg" alt="Govee Gaming Light G1 monitor backlight" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>🥇 Govee Gaming Light for Monitor G1</h3>
 
 **Why it wins:** This isn't just another RGB strip — it's purpose-built for gaming monitors with **dual-strip RGBIC technology** and surprisingly good screen sync. At $45, it delivers premium features without the premium price.
@@ -61,7 +61,7 @@ But with dozens of "gaming backlight" products on Amazon, which ones actually de
 ## 2. BenQ ScreenBar Halo — Premium Pick
 
 <div class="product-box">
-<img src="https://m.media-amazon.com/images/I/61GjTAo+ckL._AC_SL1500_.jpg" alt="BenQ ScreenBar Halo monitor light bar with backlight" style="max-width:280px;float:left;margin:0 20px 15px 0;border-radius:8px;">
+<img src="/images/benq-screenbar-halo.jpg" alt="BenQ ScreenBar Halo monitor light bar with backlight" style="max-width:280px;float:left;margin:0 20px 15px 0;border-radius:8px;">
 <h3>🥈 BenQ ScreenBar Halo LED Monitor Light Bar</h3>
 
 **The premium experience:** BenQ invented the monitor light bar category, and the Halo represents their evolution into ambient lighting. This combines a **front-facing light bar** (for keyboard/desk illumination) with **RGB backlighting** behind your monitor.
@@ -86,7 +86,7 @@ But with dozens of "gaming backlight" products on Amazon, which ones actually de
 ## 3. Quntis Monitor Light RGB Pro+ — Best Value Combo
 
 <div class="product-box">
-<img src="https://m.media-amazon.com/images/I/71mxQl2I5LL._AC_SL1500_.jpg" alt="Quntis Monitor Light RGB Pro Plus with backlight" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
+<img src="/images/quntis-rgb-pro-plus.jpg" alt="Quntis Monitor Light RGB Pro Plus with backlight" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>🥉 Quntis Monitor Light RGB Pro+</h3>
 
 **The value champion:** Quntis basically copied BenQ's homework but made it affordable. You get a **monitor light bar** for reducing eye strain PLUS **RGB backlighting** for ambient lighting — all for under $45.
@@ -111,7 +111,7 @@ But with dozens of "gaming backlight" products on Amazon, which ones actually de
 ## 4. EZONTEQ Fantasy — Budget Screen Sync Champion
 
 <div class="product-box">
-<img src="https://m.media-amazon.com/images/I/71v8LRqK4pL._AC_SL1500_.jpg" alt="EZONTEQ Fantasy monitor backlight with screen sync" style="max-width:280px;float:left;margin:0 20px 15px 0;border-radius:8px;">
+<img src="/images/ezonteq-fantasy.jpg" alt="EZONTEQ Fantasy monitor backlight with screen sync" style="max-width:280px;float:left;margin:0 20px 15px 0;border-radius:8px;">
 <h3>💰 EZONTEQ Fantasy Monitor Backlight</h3>
 
 **Proof that screen sync doesn't have to be expensive:** At just $25-30, the EZONTEQ Fantasy delivers **real-time screen color matching** that actually works. It's not as polished as Govee, but for half the price, it's surprisingly capable.
@@ -136,7 +136,7 @@ But with dozens of "gaming backlight" products on Amazon, which ones actually de
 ## 5. BenQ ScreenBar (Original) — Eye Strain Killer
 
 <div class="product-box">
-<img src="https://m.media-amazon.com/images/I/61cVrVnMmyL._AC_SL1500_.jpg" alt="BenQ ScreenBar original monitor light bar" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
+<img src="/images/benq-screenbar.jpg" alt="BenQ ScreenBar original monitor light bar" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>👀 BenQ ScreenBar LED Monitor Light Bar</h3>
 
 **The original and still great:** Before RGB backlighting took over, BenQ created the monitor light bar to solve a simple problem — **keyboard and desk lighting without screen glare**. If you prioritize function over form, this is still the gold standard.
@@ -161,7 +161,7 @@ But with dozens of "gaming backlight" products on Amazon, which ones actually de
 ## 6. Fiotura G100 — Mac-Friendly Screen Sync
 
 <div class="product-box">
-<img src="https://m.media-amazon.com/images/I/71K+vKqGjlL._AC_SL1500_.jpg" alt="Fiotura G100 monitor LED backlight for Mac and PC" style="max-width:280px;float:left;margin:0 20px 15px 0;border-radius:8px;">
+<img src="/images/fiotura-g100.jpg" alt="Fiotura G100 monitor LED backlight for Mac and PC" style="max-width:280px;float:left;margin:0 20px 15px 0;border-radius:8px;">
 <h3>🍎 Fiotura Monitor LED Backlights G100</h3>
 
 **Mac users, this one's for you:** Most screen-sync LED strips are Windows-only, but Fiotura's G100 works with **both PC and Mac**. The software isn't as polished as Govee's, but it gets the job done.
@@ -186,7 +186,7 @@ But with dozens of "gaming backlight" products on Amazon, which ones actually de
 ## 7. Actoridae Gaming Strip — Simple & Cheap
 
 <div class="product-box">
-<img src="https://m.media-amazon.com/images/I/719XGTFCsqL._AC_SL1500_.jpg" alt="Actoridae gaming monitor backlight RGB strip" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
+<img src="/images/actoridae-gaming-strip.jpg" alt="Actoridae gaming monitor backlight RGB strip" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>💡 Actoridae Gaming Monitor Backlight</h3>
 
 **For basic RGB needs:** Not everyone needs screen sync or premium features. If you just want **colorful backlighting** that looks cool and doesn't break the bank, the Actoridae strip delivers exactly that — nothing more, nothing less.

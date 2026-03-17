@@ -44,7 +44,7 @@ After 30 days of daily use with both keyboards, the **Razer Huntsman Mini** is o
 ## Build Quality & Design: Both Are Premium
 
 <div class="product-box">
-<img src="https://m.media-amazon.com/images/I/61S4uYztz9L._AC_SL1500_.jpg" alt="Razer Huntsman Mini compact gaming keyboard" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
+<img src="/images/razer-huntsman-mini.jpg" alt="Razer Huntsman Mini compact gaming keyboard" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>🎮 Razer Huntsman Mini</h3>
 
 **The ultra-compact champion**
@@ -61,7 +61,7 @@ The Huntsman Mini is **60% size** — just the essential keys. No F-row, no arro
 </div>
 
 <div class="product-box">
-<img src="https://m.media-amazon.com/images/I/71wxGxFhZXL._AC_SL1500_.jpg" alt="Logitech G PRO X mechanical gaming keyboard" style="max-width:280px;float:left;margin:0 20px 15px 0;border-radius:8px;">
+<img src="/images/logitech-g-pro-x.jpg" alt="Logitech G PRO X mechanical gaming keyboard" style="max-width:280px;float:left;margin:0 20px 15px 0;border-radius:8px;">
 <h3>⚡ Logitech G PRO X</h3>
 
 **The esports professional's choice**
