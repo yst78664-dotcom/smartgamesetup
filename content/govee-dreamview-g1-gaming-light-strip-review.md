@@ -133,7 +133,7 @@ The app is intuitive but occasionally slow to connect. WiFi stability matters he
 <div class="product-box">
 <h3>🔥 How It Stacks Up</h3>
 
-| Feature | Govee DreamView G1 | [Philips Hue Sync Box](https://www.amazon.com/dp/B08TWMQ98R?tag=songtao-20) | [Govee Immersion Kit](https://www.amazon.com/dp/B08LVPQZPX?tag=songtao-20) |
+| Feature | Govee DreamView G1 | [Philips Hue Sync Box](https://www.amazon.com/dp/B086ZJLCTW?tag=songtao-20) | [Govee Immersion Kit](https://www.amazon.com/dp/B08LVPWQQP?tag=songtao-20) |
 |---------|-------------------|---------------------------|---------------------------|
 | **Price** | $49.99 | $229.99 | $69.99 |
 | **Screen sync** | Desktop app | Hardware box (better) | Camera-based (best) |
@@ -184,8 +184,8 @@ The app is intuitive but occasionally slow to connect. WiFi stability matters he
 
 **Better alternatives:**
 - **Tighter budget?** Get the [basic Govee RGB strip](https://www.amazon.com/dp/B07N1CMGQQ?tag=songtao-20) for $25 (no screen sync)
-- **Bigger budget?** Consider the [Govee Immersion Kit](https://www.amazon.com/dp/B08LVPQZPX?tag=songtao-20) for $70 (camera-based, better accuracy)
-- **Money no object?** Go [Philips Hue with Sync Box](https://www.amazon.com/dp/B08TWMQ98R?tag=songtao-20) for premium performance
+- **Bigger budget?** Consider the [Govee Immersion Kit](https://www.amazon.com/dp/B08LVPWQQP?tag=songtao-20) for $70 (camera-based, better accuracy)
+- **Money no object?** Go [Philips Hue with Sync Box](https://www.amazon.com/dp/B086ZJLCTW?tag=songtao-20) for premium performance
 
 ## Final Verdict: A Solid 4/5 Stars
 

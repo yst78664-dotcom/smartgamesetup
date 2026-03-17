@@ -74,7 +74,7 @@ The G PRO X is **tenkeyless (87-key)** — keeps F-row and arrow keys but drops 
 
 **Cable:** Micro-USB feels dated in 2026, but the cable is detachable and high-quality.
 
-<a href="https://www.amazon.com/dp/B087LBCTGJ?tag=songtao-20" class="btn-amazon" target="_blank" rel="nofollow">Check Current Price on Amazon</a>
+<a href="https://www.amazon.com/dp/B0BRSSGBCN?tag=songtao-20" class="btn-amazon" target="_blank" rel="nofollow">Check Current Price on Amazon</a>
 </div>
 
 **Winner:** Tie. Both keyboards feel premium and should last years of heavy gaming.
@@ -267,7 +267,7 @@ We tested both keyboards across multiple game genres for 2 weeks each:
 | Keyboard | MSRP | Street Price | Value Score |
 |----------|------|-------------|-------------|
 | **Razer Huntsman Mini** | $119.99 | [Check Amazon](https://www.amazon.com/dp/B08B3MHYPC?tag=songtao-20) | ⭐⭐⭐⭐⭐ |
-| **Logitech G PRO X** | $129.99 | [Check Amazon](https://www.amazon.com/dp/B087LBCTGJ?tag=songtao-20) | ⭐⭐⭐⭐☆ |
+| **Logitech G PRO X** | $129.99 | [Check Amazon](https://www.amazon.com/dp/B0BRSSGBCN?tag=songtao-20) | ⭐⭐⭐⭐☆ |
 
 **Additional costs to consider:**
 - **Wrist rest:** Both benefit from aftermarket rests (~$20-30)
@@ -305,11 +305,11 @@ We tested both keyboards across multiple game genres for 2 weeks each:
 <h3>🎯 Other Options</h3>
 
 **Similar compact gaming keyboards:**
-- [**SteelSeries Apex Pro Mini**](https://www.amazon.com/dp/B097GYZMVB?tag=songtao-20) — Adjustable actuation distance
+- [**SteelSeries Apex Pro Mini**](https://www.amazon.com/dp/B0B16HXVVQ?tag=songtao-20) — Adjustable actuation distance
 - [**Corsair K65 RGB Mini**](https://www.amazon.com/dp/B08W2CSXLM?tag=songtao-20) — Cherry MX switches, wireless option
 
 **Full-size alternatives:**
-- [**Razer BlackWidow V4**](https://www.amazon.com/dp/B0CQRJBZ4F?tag=songtao-20) — Full-size with optical switches
+- [**Razer BlackWidow V4**](https://www.amazon.com/dp/B0C6RK64Z2?tag=songtao-20) — Full-size with optical switches
 - [**Logitech G915 TKL**](https://www.amazon.com/dp/B085RMD5TP?tag=songtao-20) — Low-profile mechanical, wireless
 </div>
 
@@ -326,7 +326,7 @@ However, the **Logitech G PRO X** is the better all-around keyboard for most peo
 
 <div style="display:flex;gap:20px;margin:30px 0;">
 <a href="https://www.amazon.com/dp/B08B3MHYPC?tag=songtao-20" class="btn-amazon" target="_blank" rel="nofollow">Buy Razer Huntsman Mini</a>
-<a href="https://www.amazon.com/dp/B087LBCTGJ?tag=songtao-20" class="btn-amazon" target="_blank" rel="nofollow">Buy Logitech G PRO X</a>
+<a href="https://www.amazon.com/dp/B0BRSSGBCN?tag=songtao-20" class="btn-amazon" target="_blank" rel="nofollow">Buy Logitech G PRO X</a>
 </div>
 
 ---
