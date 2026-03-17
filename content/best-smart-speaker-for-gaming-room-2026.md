@@ -148,7 +148,7 @@ A smart speaker in your gaming room isn't just about playing music between match
 ## 5. Amazon Echo Show 5 (3rd Gen) — Best with Display
 
 <div class="product-box">
-<img src="https://m.media-amazon.com/images/I/61mDMLkcYzL._AC_SL1000_.jpg" alt="Amazon Echo Show 5 3rd Gen" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
+<img src="/images/echo-show-5.jpg" alt="Amazon Echo Show 5 3rd Gen" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>5️⃣ Amazon Echo Show 5 (3rd Gen)</h3>
 
 **Why we love it:** The 5.5" touchscreen opens up use cases audio-only speakers can't touch: display Twitch chat, show your calendar, view security cameras, or use it as a slick desk clock with album art. For streamers, it can show chat or stats without sacrificing monitor real estate.
