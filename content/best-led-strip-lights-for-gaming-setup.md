@@ -110,45 +110,49 @@ But with hundreds of options on Amazon, how do you pick the right one? We analyz
 <a href="https://www.amazon.com/dp/B0CQN1B4JM?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
 </div>
 
-## 4. LIFX Z Strip — Best No-Hub Option
-
+<div class="product-box">
 <img src="/images/lifx-z-strip.jpg" alt="LIFX Z Strip" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
+<h3>4️⃣ LIFX Z Strip — Best No-Hub Option</h3>
 
 The LIFX Z connects directly to your Wi-Fi — no hub, no bridge, no extra hardware. Each 3.3ft section has 8 individually addressable zones, and the colors are incredibly vivid (1400 lumens max brightness).
 
 **Best for:** Gamers who want premium quality without dealing with hubs or bridges.
 
 <a href="https://www.amazon.com/dp/B091ZT4L78?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
+</div>
 
-## 5. Nanoleaf Essentials Lightstrip — Best Matter Support
-
+<div class="product-box">
 <img src="/images/nanoleaf-essentials-lightstrip.jpg" alt="Nanoleaf Essentials Lightstrip" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
+<h3>5️⃣ Nanoleaf Essentials Lightstrip — Best Matter Support</h3>
 
 Nanoleaf was one of the first brands to support the Matter smart home standard. This means it works natively with Apple Home, Google Home, Samsung SmartThings, and Amazon Alexa — future-proofing your setup.
 
 **Best for:** Smart home enthusiasts who want maximum compatibility.
 
 <a href="https://www.amazon.com/dp/B0C54FGC52?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
+</div>
 
-## 6. Corsair iCUE LS100 — Best for PC Gamers
-
+<div class="product-box">
 <img src="/images/corsair-icue-ls100.jpg" alt="Corsair iCUE LS100" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
+<h3>6️⃣ Corsair iCUE LS100 — Best for PC Gamers</h3>
 
 Specifically designed for PC gaming setups, the LS100 integrates with Corsair's iCUE software to sync your lighting with your keyboard, mouse, headset, and even in-game events. If you're already in the Corsair ecosystem, this is a no-brainer.
 
 **Best for:** Corsair ecosystem users who want unified RGB control.
 
 <a href="https://www.amazon.com/dp/B07X1QJTQJ?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
+</div>
 
-## 7. Daybetter LED Strip — Best Budget
-
+<div class="product-box">
 <img src="/images/daybetter-led-strip.jpg" alt="Daybetter LED Strip" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
+<h3>7️⃣ Daybetter LED Strip — Best Budget</h3>
 
 At under $15 for 32.8ft, the Daybetter is the cheapest way to add color to your gaming room. It's basic — no smart features, just a remote control — but it gets the job done if you're on a tight budget.
 
 **Best for:** Students or anyone starting their first gaming setup.
 
 <a href="https://www.amazon.com/dp/B07SPZ2HGT?tag=songtao-20" class="btn-amazon">Check Price on Amazon →</a>
+</div>
 
 ## How to Choose the Right LED Strip for Your Gaming Setup
 
