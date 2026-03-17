@@ -150,6 +150,7 @@ We tested **5 of the best smart plugs** and ranked them by reliability, energy m
 ## 5. Amazon Smart Plug — Simplest Alexa Setup
 
 <div class="product-box">
+<img src="/images/amazon-smart-plug.jpg" alt="Amazon Smart Plug" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>5️⃣ Amazon Smart Plug</h3>
 
 **Why we love it:** Just want to say "Alexa, game time" and have your setup turn on? This sets up in under 60 seconds and "just works" with every Alexa routine. No energy monitoring, no Matter — just dead-simple on/off through Alexa.
