@@ -169,6 +169,7 @@ We've tested and compared **7 of the best gaming monitors in 2026** across OLED,
 ## 6. MSI MAG 275CQRF-QD — Best Budget 1440p Gaming Monitor
 
 <div class="product-box">
+<img src="/images/msi-mag-275cqrf.jpg" alt="MSI MAG 275CQRF-QD Gaming Monitor" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>6️⃣ MSI MAG 275CQRF-QD</h3>
 
 **Why we love it:** Not everyone needs 4K. This curved Rapid VA panel with quantum dots delivers vibrant colors and 180Hz at 1440p. Deep blacks mean your bias lighting looks more dramatic. Curved design pairs beautifully with wraparound ambient lighting.
@@ -196,6 +197,7 @@ We've tested and compared **7 of the best gaming monitors in 2026** across OLED,
 ## 7. LG 34GP950G-B — Best Ultrawide for Immersive Gaming
 
 <div class="product-box">
+<img src="/images/lg-34gp950g.jpg" alt="LG 34GP950G-B Ultrawide Gaming Monitor" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>7️⃣ LG 34GP950G-B</h3>
 
 **Why we love it:** The pinnacle of immersion. Nano IPS panel with full DCI-P3 coverage, HDR600, and 3440×1440 cinematic 21:9. Your ambient lighting wraps around a wider canvas, and the extra real estate lets you game on one side while monitoring your smart home dashboard on the other.
