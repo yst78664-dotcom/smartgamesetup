@@ -680,10 +680,10 @@ function buildNewsPage() {
     .news-icon { font-size:40px; flex-shrink:0; width:60px; height:60px; display:flex; align-items:center; justify-content:center; background:#16213e; border-radius:12px; }
     .news-content { flex:1; }
     .news-tags { display:flex; gap:10px; align-items:center; margin-bottom:8px; flex-wrap:wrap; }
-    .news-tag { display:inline-block; background:#7c3aed; color:#fff; font-size:13px; font-weight:700; text-transform:uppercase; padding:3px 8px; border-radius:4px; }
-    .news-date { color:#22d3ee; font-size:15px; font-weight:600; }
-    .news-content h2 { font-size:26px; margin-bottom:10px; color:#f1f5f9; }
-    .news-content p { color:#94a3b8; font-size:18px; margin:0; line-height:1.6; }
+    .news-tag { display:inline-block; background:#7c3aed; color:#fff; font-size:15px; font-weight:700; text-transform:uppercase; padding:3px 8px; border-radius:4px; }
+    .news-date { color:#22d3ee; font-size:17px; font-weight:600; }
+    .news-content h2 { font-size:30px; margin-bottom:12px; color:#f1f5f9; }
+    .news-content p { color:#94a3b8; font-size:22px; margin:0; line-height:1.7; }
     .updated { text-align:center; color:#64748b; font-size:14px; padding:20px; }
     .footer { text-align:center; padding:40px; color:#64748b; font-size:14px; }
     @media (max-width:768px) { .hero h1 { font-size:32px; } .news-card { flex-direction:column; } .news-icon { width:50px; height:50px; font-size:30px; } }
