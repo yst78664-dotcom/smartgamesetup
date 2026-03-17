@@ -143,6 +143,7 @@ You spent weeks picking the perfect [gaming monitor](/best-gaming-monitor-for-sm
 ## 5. Scandinavian Hub Premium Cable Management Kit — Best Premium Option
 
 <div class="product-box">
+<img src="/images/scandinavian-hub-cable-kit.jpg" alt="Scandinavian Hub Premium Cable Management Kit" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>5️⃣ Scandinavian Hub Premium Cable Management Kit</h3>
 
 **Why we love it:** For those who want the cable management experience to feel as premium as their gaming peripherals. Includes a fabric-wrapped under-desk tray, color-coded velcro ties, premium neoprene sleeves, adhesive cable clips, and even labels for identifying cables.
@@ -170,6 +171,7 @@ You spent weeks picking the perfect [gaming monitor](/best-gaming-monitor-for-sm
 ## 6. Amazon Basics Under Desk Cable Tray — Best Budget Tray
 
 <div class="product-box">
+<img src="/images/amazonbasics-cable-tray.jpg" alt="Amazon Basics Under Desk Cable Tray" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>6️⃣ Amazon Basics Under Desk Cable Tray</h3>
 
 **Why we love it:** A no-frills steel mesh basket that does exactly one thing well: holds your cables and power strip out of sight. Roughly half the cost of the EVEO tray.
@@ -194,6 +196,7 @@ You spent weeks picking the perfect [gaming monitor](/best-gaming-monitor-for-sm
 ## 7. Alex Tech Split Loom Tubing — Best for Permanent Cable Runs
 
 <div class="product-box">
+<img src="/images/alex-tech-split-loom.jpg" alt="Alex Tech Split Loom Tubing" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>7️⃣ Alex Tech Split Loom Tubing</h3>
 
 **Why we love it:** For gamers who want a permanent, professional-grade solution, split loom tubing wraps around cable bundles and protects them from abrasion, pets, and vacuum cleaners. The split design means you don't need to disconnect cables to install it.
