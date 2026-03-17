@@ -141,6 +141,7 @@ We've tested and compared **7 of the best gaming monitors in 2026** across OLED,
 ## 5. Gigabyte M27U — Best Budget 4K Gaming Monitor
 
 <div class="product-box">
+<img src="/images/gigabyte-m27u.jpg" alt="Gigabyte M27U Gaming Monitor" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>5️⃣ Gigabyte M27U</h3>
 
 **Why we love it:** Consistently punches above its weight. True 4K at 160Hz with a well-calibrated IPS panel, frequently under $400 on sale. Built-in KVM switch is a bonus for dual-system setups. Saves you budget for [ambient lighting](/best-led-strip-lights-gaming-setup/) and [cable management](/best-cable-management-kit-for-gaming-setup/).
