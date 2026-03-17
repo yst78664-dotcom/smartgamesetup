@@ -150,6 +150,7 @@ We tested five popular dual monitor arms on the same desk with the same pair of 
 ## 5. HUANUO Dual Monitor Arm — Best for Ultrawides
 
 <div class="product-box">
+<img src="/images/huanuo-dual-arm.jpg" alt="HUANUO Dual Monitor Arm" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>5️⃣ HUANUO Dual Monitor Arm</h3>
 
 **Why we love it:** If you're running 32" or 34" ultrawides, most dual arms struggle. The HUANUO supports screens up to 35" and 26.4 lbs per arm. Extra-long arm segments prevent arm collision with wide monitors, and reinforced gas springs handle the weight without sagging.
