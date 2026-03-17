@@ -367,18 +367,18 @@ function buildAboutPage() {
     .content h1 { font-size:42px; margin-bottom:30px; color:#f1f5f9; }
     .content h1 em { color:#7c3aed; font-style:normal; }
     .card { background:#1a1a2e; border:1px solid #334155; border-radius:12px; padding:40px; margin-bottom:30px; }
-    .card h2 { color:#7c3aed; font-size:24px; margin-bottom:15px; }
+    .card h2 { color:#7c3aed; font-size:28px; margin-bottom:15px; }
     .card h2 .emoji { margin-right:10px; }
-    .card p { color:#94a3b8; font-size:17px; margin-bottom:12px; }
-    .card ul { color:#94a3b8; margin:12px 0 12px 25px; }
-    .card li { margin:8px 0; font-size:16px; }
+    .card p { color:#94a3b8; font-size:20px; margin-bottom:14px; line-height:1.7; }
+    .card ul { color:#94a3b8; margin:14px 0 14px 25px; }
+    .card li { margin:10px 0; font-size:19px; }
     .card strong { color:#f1f5f9; }
     .highlight { color:#22d3ee; }
     .values { display:grid; grid-template-columns:repeat(auto-fill,minmax(200px,1fr)); gap:20px; margin:20px 0; }
     .value-item { background:#16213e; border-radius:10px; padding:20px; text-align:center; }
     .value-item .icon { font-size:36px; margin-bottom:10px; }
-    .value-item h3 { color:#f1f5f9; font-size:16px; margin-bottom:5px; }
-    .value-item p { color:#64748b; font-size:14px; margin:0; }
+    .value-item h3 { color:#f1f5f9; font-size:18px; margin-bottom:5px; }
+    .value-item p { color:#64748b; font-size:16px; margin:0; }
     .cta { background:linear-gradient(135deg,#7c3aed,#5b21b6); border-radius:12px; padding:40px; text-align:center; }
     .cta h2 { color:#fff; margin-bottom:10px; }
     .cta p { color:#e2e8f0; }
