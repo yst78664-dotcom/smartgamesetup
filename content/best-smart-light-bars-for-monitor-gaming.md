@@ -146,6 +146,7 @@ If you've ever gamed for hours in a dark room with burning eyes and a pounding h
 ## 5. Xiaomi Mi Computer Monitor Light Bar — Minimalist Budget Pick
 
 <div class="product-box">
+<img src="/images/xiaomi-light-bar.jpg" alt="Xiaomi Mi Computer Monitor Light Bar" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>5️⃣ Xiaomi Mi Computer Monitor Light Bar</h3>
 
 **Why we love it:** The most affordable option with no-nonsense approach: a well-built aluminum light bar with excellent optics, USB-C power, and wireless remote. No RGB, no screen sync — just 80% of the BenQ experience at 30% of the price.
