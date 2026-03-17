@@ -120,7 +120,7 @@ We tested five popular dual monitor arms on the same desk with the same pair of 
 ## 4. Humanscale M8.1 Dual — Best Premium
 
 <div class="product-box">
-<img src="https://m.media-amazon.com/images/I/71jBpTowdvL._AC_SL1500_.jpg" alt="Humanscale M8.1 Monitor Arm" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
+<img src="/images/humanscale-m81.jpg" alt="Humanscale M8.1 Monitor Arm" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>4️⃣ Humanscale M8.1 Dual</h3>
 
 **Why we love it:** What happens when an ergonomic furniture company with decades of experience designs a monitor arm. Instead of gas springs, it uses a weight-compensating mechanical system that auto-adjusts — just slide the weight indicator to your monitor's weight and the arm perfectly counterbalances. Brilliant.
