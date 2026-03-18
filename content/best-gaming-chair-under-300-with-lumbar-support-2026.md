@@ -158,7 +158,7 @@ The fabric is **significantly thicker** than budget competitors, and the overall
 **Lumbar:** Memory foam pillow  
 **Best for:** Tight budgets, basic gaming needs
 
-<a href="https://www.amazon.com/dp/B0DR7T2R8H?tag=songtao-20" class="btn-amazon" target="_blank" rel="nofollow">Check Current Price on Amazon</a>
+<a href="https://www.amazon.com/dp/B01N7I2U5F?tag=songtao-20" class="btn-amazon" target="_blank" rel="nofollow">Check Current Price on Amazon</a>
 </div>
 
 The **GTRACING GT002** proves you don't need to spend $300 for decent lumbar support. The memory foam lumbar pillow is **surprisingly supportive** for a sub-$200 chair, and the build quality exceeds expectations.
@@ -187,7 +187,7 @@ The **GTRACING GT002** proves you don't need to spend $300 for decent lumbar sup
 **Best for:** First gaming chair, very tight budgets  
 **Note:** Basic lumbar pillow support only
 
-<a href="https://www.amazon.com/dp/B01ICHJZ5U?tag=songtao-20" class="btn-amazon" target="_blank" rel="nofollow">Check Current Price on Amazon</a>
+<a href="https://www.amazon.com/dp/B07DKZL3JX?tag=songtao-20" class="btn-amazon" target="_blank" rel="nofollow">Check Current Price on Amazon</a>
 </div>
 
 If **$300 is completely out of reach**, the Homall S-Racer offers basic lumbar support that's better than no support at all. It's not amazing, but it beats most office chairs in this price range.
