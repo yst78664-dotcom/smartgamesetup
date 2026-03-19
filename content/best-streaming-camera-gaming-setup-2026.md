@@ -44,6 +44,8 @@ This comprehensive guide covers the best streaming cameras across every budget r
 
 ### 1. Logitech C920 HD Pro - Best Budget Choice
 
+![Logitech C920 HD Pro Webcam](/images/logitech-c920.jpg)
+
 **ASIN: B006JH8T3S** - [Amazon Link](https://amazon.com/dp/B006JH8T3S?tag=songtao-20)
 
 The C920 has been the gold standard for budget streaming for years, and for good reason. Despite being an older model, it continues to deliver reliable performance that many newer, more expensive cameras struggle to match.
@@ -101,6 +103,8 @@ The C920S takes everything great about the C920 and adds a crucial feature for m
 **Price:** [Check current price on Amazon](https://amazon.com/dp/B07K95WFWM?tag=songtao-20)
 
 ### 3. Razer Kiyo - Best Built-in Lighting
+
+![Razer Kiyo Streaming Webcam](/images/razer-kiyo.jpg)
 
 **ASIN: B075N1BYWB** - [Amazon Link](https://amazon.com/dp/B075N1BYWB?tag=songtao-20)
 

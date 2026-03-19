@@ -71,6 +71,8 @@ The HomePod Mini's microphones are optimized for music and general use, not spec
 
 ### Amazon Echo Dot (5th Generation)
 
+![Amazon Echo Dot 5th Generation](/images/echo-dot.jpg)
+
 **ASIN: B09B8V1LZ3** - [Buy on Amazon](https://amazon.com/dp/B09B8V1LZ3?tag=songtao-20)
 
 **Gaming Strengths:**
@@ -104,6 +106,8 @@ The HomePod Mini's microphones are optimized for music and general use, not spec
 **Price:** [Check current price on Amazon](https://amazon.com/dp/B09B8V1LZ3?tag=songtao-20) | [Best Buy](https://www.bestbuy.com/site/amazon-echo-dot-5th-generation/6513985.p?skuId=6513985&irclickid=7095240)
 
 ### Apple HomePod Mini
+
+![Apple HomePod Mini](/images/homepod-mini.jpg)
 
 **Model: MY5G2LL/A** - Available at Apple Store and authorized retailers
 

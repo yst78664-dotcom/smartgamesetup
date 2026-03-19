@@ -40,6 +40,8 @@ Gaming setups represent significant investments. Smart power strips offer advanc
 
 ### 1. Kasa Smart Power Strip HS300 - Best Overall
 
+![Kasa Smart Power Strip HS300](/images/kasa-hs300.jpg)
+
 **ASIN: B07G95FFN3**
 
 The Kasa HS300 remains the gold standard for smart power strips in 2026. With six individually controllable AC outlets and three USB ports, it offers the perfect balance of features and reliability.

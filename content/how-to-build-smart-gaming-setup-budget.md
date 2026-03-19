@@ -109,6 +109,8 @@ Audio enhancement dramatically improves gaming immersion and adds voice control 
 
 ### Option A: Amazon Echo Dot (5th Gen) ($30-50)
 
+![Amazon Echo Dot 5th Generation](/images/echo-dot.jpg)
+
 **Features for gaming:**
 - Voice control for all smart devices
 - Music streaming during gaming breaks

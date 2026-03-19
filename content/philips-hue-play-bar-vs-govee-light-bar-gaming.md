@@ -30,6 +30,8 @@ In this comprehensive comparison, we'll examine both options across every metric
 
 ### Philips Hue Play Light Bar
 
+![Philips Hue Play Light Bar](/images/philips-hue-play-bar.jpg)
+
 **Available Models:**
 - [Single Pack ASIN: B07FXRS4ZW](https://amazon.com/dp/B07FXRS4ZW?tag=songtao-20) - $80-90
 - [Double Pack ASIN: B07GXB3S7Z](https://amazon.com/dp/B07GXB3S7Z?tag=songtao-20) - $130-160
@@ -52,6 +54,9 @@ In this comprehensive comparison, we'll examine both options across every metric
 **Popular Gaming Models:**
 
 #### 1. Govee Gaming Light for Monitor G1
+
+![Govee Gaming Light for Monitor](/images/govee-light-bar.jpg)
+
 **ASIN: B0C4NC62C6** - $40-60
 
 **Features:**
