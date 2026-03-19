@@ -36,7 +36,7 @@ After testing **12 gaming chairs** in the $150-$300 range over the past 2 months
 ## 🥇 #1. Razer Iskur V2 X — Best Overall Gaming Chair Under $300
 
 <div class="product-box">
-<img src="https://m.media-amazon.com/images/I/71jKL4YqMQL._AC_SL1500_.jpg" alt="Razer Iskur V2 X Gaming Chair" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
+<img src="/images/razer-iskur-v2x.jpg" alt="Razer Iskur V2 X Gaming Chair" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>🥇 Razer Iskur V2 X</h3>
 
 **Why we love it:** Built-in lumbar curve that adapts to your spine's natural shape. No flimsy pillow to slide around — the support is literally built into the seat back. Fabric upholstery stays cooler than leather alternatives.
@@ -76,7 +76,7 @@ We put this chair through **40+ hours of gaming** across different genres:
 ## 🥈 #2. RESPAWN 110 Pro — Best Feature Set for the Money
 
 <div class="product-box">
-<img src="https://m.media-amazon.com/images/I/71VkG8TGQEL._AC_SL1500_.jpg" alt="RESPAWN 110 Pro Gaming Chair with Footrest" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
+<img src="/images/respawn-110-pro.jpg" alt="RESPAWN 110 Pro Gaming Chair with Footrest" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>🥈 RESPAWN 110 Pro</h3>
 
 **Why we picked it:** The only sub-$300 chair with a **retractable footrest** that actually works. Combines great lumbar support with premium features usually found on $400+ chairs.
@@ -113,7 +113,7 @@ The lumbar pillow is **memory foam** (not cheap stuffing) and stays positioned b
 ## 🥉 #3. ThunderX3 CORE — Most Premium Feel Under $300
 
 <div class="product-box">
-<img src="https://m.media-amazon.com/images/I/71Zx+SPOYIL._AC_SL1500_.jpg" alt="ThunderX3 CORE Gaming Chair" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
+<img src="/images/thunderx3-core.jpg" alt="ThunderX3 CORE Gaming Chair" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>🥉 ThunderX3 CORE</h3>
 
 **Why it made the list:** 360° self-adjusting lumbar support that moves with your spine. Feels like a chair that should cost $400+, but sneaks in under $300.
@@ -150,7 +150,7 @@ The fabric is **significantly thicker** than budget competitors, and the overall
 ## #4. GTRACING GT002 — Solid Budget Choice
 
 <div class="product-box">
-<img src="https://m.media-amazon.com/images/I/71QxJyqxXOL._AC_SL1500_.jpg" alt="GTRACING GT002 Gaming Chair" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
+<img src="/images/gtracing-gt002.jpg" alt="GTRACING GT002 Gaming Chair" style="max-width:280px;float:right;margin:0 0 15px 20px;border-radius:8px;">
 <h3>GTRACING GT002</h3>
 
 **Price:** $179.99  
