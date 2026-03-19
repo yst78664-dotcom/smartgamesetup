@@ -1,7 +1,8 @@
 ---
 title: "Best Streaming Camera for Gaming Setup 2026"
-date: 2026-03-18
-category: gaming-monitors
+date: "2026-03-18"
+topic: "gaming-monitors"
+cat egory: "reviews"
 tags: ["streaming camera", "webcam", "gaming setup", "streaming gear", "content creation", "2026"]
 ---
 

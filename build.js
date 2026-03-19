@@ -121,9 +121,15 @@ function generateIndex(articles) {
   const currentMonth = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}`;
   
   // Filter to current month articles
+  // gray-matter parses date as Date object, so normalize to YYYY-MM-DD string
+  function dateStr(d) {
+    if (!d) return '';
+    if (d instanceof Date) return d.toISOString().slice(0, 10);
+    return String(d).slice(0, 10);
+  }
   const recent = articles
-    .filter(a => String(a.date || '').slice(0, 7) === currentMonth)
-    .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+    .filter(a => dateStr(a.date).slice(0, 7) === currentMonth)
+    .sort((a, b) => dateStr(b.date).localeCompare(dateStr(a.date)));
   
   const displayArticles = recent.length > 0 ? recent : articles.slice(0, 6);
   

@@ -1,7 +1,8 @@
 ---
 title: "How to Build a Smart Gaming Setup on a Budget"
-date: 2026-03-18
-category: desk-setup
+date: "2026-03-18"
+topic: "desk-setup"
+cat egory: "reviews"
 tags: ["budget gaming", "smart setup", "gaming on budget", "cheap gaming accessories", "DIY gaming", "2026"]
 ---
 

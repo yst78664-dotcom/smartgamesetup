@@ -1,7 +1,8 @@
 ---
 title: "Best Smart Power Strip for Gaming Desk Setup 2026"
-date: 2026-03-18
-category: power-management
+date: "2026-03-18"
+topic: "power-management"
+cat egory: "reviews"
 tags: ["smart power strip", "gaming desk", "power management", "smart home", "gaming accessories", "2026"]
 ---
 

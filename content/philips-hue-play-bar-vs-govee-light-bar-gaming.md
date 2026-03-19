@@ -1,7 +1,8 @@
 ---
 title: "Philips Hue Play Bar vs Govee Light Bar for Gaming"
-date: 2026-03-18
-category: smart-lighting
+date: "2026-03-18"
+topic: "smart-lighting"
+cat egory: "reviews"
 tags: ["philips hue", "govee", "light bar", "gaming lighting", "monitor lighting", "ambient lighting", "comparison"]
 ---
 

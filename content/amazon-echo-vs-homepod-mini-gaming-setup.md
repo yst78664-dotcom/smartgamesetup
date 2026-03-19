@@ -1,7 +1,8 @@
 ---
 title: "Amazon Echo vs HomePod Mini for Gaming Setup"
-date: 2026-03-18
-category: smart-audio
+date: "2026-03-18"
+topic: "smart-audio"
+cat egory: "reviews"
 tags: ["amazon echo", "homepod mini", "gaming audio", "smart speakers", "voice control", "gaming setup"]
 ---
 
